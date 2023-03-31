@@ -1,0 +1,47 @@
+description: The starter theme template of HB (Hugo Bootstrap) Framework.
+
+hb:
+  header:
+    brand: HB
+    logo_bg: '#712cf9'
+    socials:
+      github: hbstack
+      kofi: razonyang
+      paypal: razonyang
+      twitter: razonyang
+      mastodon: razonyang
+  footer:
+    socials:
+      github: hbstack
+      kofi: razonyang
+      paypal: razonyang
+      twitter: razonyang
+      mastodon: razonyang
+  blog:
+    home:
+      recent_posts: 12
+      featured_posts: 5
+      main_sections:
+        - docs
+        - blog
+        - tutorials
+    giscus:
+      repo: hbstack/theme
+      repo_id: R_kgDOJP3qtA
+      category_id: DIC_kwDOJP3qtM4CVavM
+  docs:
+    giscus:
+      repo: hbstack/theme
+      repo_id: R_kgDOJP3qtA
+      category_id: DIC_kwDOJP3qtM4CVavM
+
+seo:
+  favicons:
+    icon: images/logo.png # use logo as favicon.
+
+pwa:
+  debug: false
+  manifest:
+    background_color: '#712cf9'
+    theme_color: '#712cf9'
+    short_name: 'HB Theme'

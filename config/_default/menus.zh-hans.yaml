@@ -1,0 +1,80 @@
+main:
+  - name: 支持
+    identifier: support
+    weight: 100
+    url: https://github.com/hbstack
+    params:
+      header: HB 支持社区。
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+
+  - name: GitHub
+    parent: support
+    url: https://github.com/hbstack
+    weight: 1
+    params:
+      icon:
+        vendor: fab
+        name: github
+      description: 代码仓库。
+
+  - name: 讨论
+    parent: support
+    url: https://github.com/hbstack/discussions
+    weight: 2
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: comments
+        color: green
+      description: 提问题和分享你的想法。
+
+  - name: Bug 反馈
+    parent: support
+    url: https://github.com/hbstack/issues/new
+    weight: 3
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: bug
+        color: red
+      description: 向我们反馈一个错误或问题。
+
+  - name: 功能提议
+    parent: support
+    url: https://github.com/hbstack/issues/new
+    weight: 4
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: lightbulb
+        color: orange
+      description: 建议新的或需要改进的功能。
+
+  - name: Sponsor
+    identifier: sponsor
+    parent: support
+    weight: 10
+    params:
+      divider: true
+
+  - name: PayPal
+    weight: 11
+    parent: support
+    url: https://paypal.me/razonyang
+    params:
+      description: 通过 PayPal 赞助我们。
+      icon:
+        vendor: simple-icons
+        name: paypal
+
+  - name: Ko-fi
+    weight: 12
+    parent: support
+    url: https://ko-fi.com/razonyang
+    params:
+      description: 通过 Ko-fi 赞助我们。
+      icon:
+        vendor: simple-icons
+        name: kofi
