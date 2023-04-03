@@ -83,6 +83,7 @@ github.com/hbstack/scrollbar v0.1.0 h1:uQMNbkWbLxnjQMiD3zdt33RG48sY2a0XWyGQkK2Hs
 github.com/hbstack/scrollbar v0.1.0/go.mod h1:BEDha5gOjQfXBKZfwT+4vn8hCE88qElocjEI2SY1eAs=
 github.com/hbstack/search v0.1.5 h1:Hbo1LLoWz1X1iUJZGlIA7AkeOTJNogEn6VYhyUobIAM=
 github.com/hbstack/search v0.1.5/go.mod h1:2qmGYFzob/5rwI3i+I7gC0gjRyj+AULMWyvSpmojFNE=
+github.com/hbstack/search v0.1.6/go.mod h1:v4WaUf76Aw2hl0YD5MKlSHaTUH/vdP/3z5v3MVxjyJM=
 github.com/hbstack/syntax-highlighting v0.1.0 h1:WxdhNgCktllNKQDqu1BmLmg9dsi77/dXIlcdQ8KZZI0=
 github.com/hbstack/syntax-highlighting v0.1.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 h1:lGH8nqOU/+3yzHIk5s1nTrzHDImEnvLkr/0viuPfx3Y=
