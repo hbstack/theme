@@ -45,3 +45,14 @@ pwa:
     background_color: '#712cf9'
     theme_color: '#712cf9'
     short_name: 'HB Theme'
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
+        head-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
+          cacheable: true
