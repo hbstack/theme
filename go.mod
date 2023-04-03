@@ -6,8 +6,8 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.1.2 // indirect
 	github.com/hbstack/base v0.1.3 // indirect
-	github.com/hbstack/bigger-picture v0.3.1 // indirect
-	github.com/hbstack/blog v0.5.2 // indirect
+	github.com/hbstack/bigger-picture v0.3.2 // indirect
+	github.com/hbstack/blog v0.5.4 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.1.2 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.1 // indirect
@@ -25,7 +25,7 @@ require (
 	github.com/hbstack/footer v0.1.5 // indirect
 	github.com/hbstack/footer/modules/socials v0.1.2 // indirect
 	github.com/hbstack/hb v0.1.4 // indirect
-	github.com/hbstack/header v0.1.8 // indirect
+	github.com/hbstack/header v0.1.9 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.2 // indirect
 	github.com/hbstack/header/modules/search v0.1.4 // indirect
 	github.com/hbstack/header/modules/socials v0.1.1 // indirect
@@ -49,7 +49,7 @@ require (
 	github.com/hugomods/bootstrap v0.2.3 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.0 // indirect
-	github.com/hugomods/gravatar v0.1.0 // indirect
+	github.com/hugomods/gravatar v0.1.1 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
 	github.com/hugomods/katex v0.1.2 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.0 // indirect
