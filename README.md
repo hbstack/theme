@@ -15,6 +15,12 @@ The starter theme template of [HB Framework](https://hb.hugomods.com).
   - Installable: add site to home screen.
   - Offline available: offline page and offline image.
   - Allow precaching resources, such as CSS, JS and fonts.
+- **Advanced**:
+  - Custom SCSS [variables](https://github.com/hbstack/theme/blob/main/assets/hb/modules/custom/scss/variables.tmpl.scss) and [style](https://github.com/hbstack/theme/blob/main/assets/hb/modules/custom/scss/index.scss).
+  - Custom [JavaScript](https://github.com/hbstack/theme/blob/main/assets/hb/modules/custom/js/index.ts).
+  - Custom HTML markup:
+    - [Before the end of `<head>`](https://github.com/hbstack/theme/blob/main/layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html)
+    - [Before the end of `<body>`](https://github.com/hbstack/theme/blob/main/layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html)
 - :framed_picture: **Images Processing**: process images via URL query string and fragment, such as alignment, resizing, cropping and so on, friendly to Markdown.
 - :computer: **Code block panel**: expand toggle, code copy button, line number toggle and wrap toggle.
 - **Menus**: supports header menus and footer menus.
