@@ -1,8 +1,9 @@
 baseURL: https://hb-theme.hugomods.com/
 title: HB Theme Template
+# Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com) and [Hugo Bootstrap Framework](https://hb.hugomods.com). All Rights Reserved."
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
 disqusShortname: hb-site
 enableRobotsTXT: true
 
@@ -12,6 +13,8 @@ permalinks:
 module:
   # For some regions can not access the proxy.golang.org, i.e. China.
   # proxy: https://goproxy.cn,https://goproxy.io,https://mirrors.aliyun.com/goproxy,direct
+
+  # The order of module is very important, precedence from top to bottom.
   imports:
     # syntax highlighting, see https://hb.hugomods.com/en/docs/modules/syntax-highlighting/.
     # - path: github.com/hbstack/syntax-highlighting/styles/github-dark

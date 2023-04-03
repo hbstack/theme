@@ -2,8 +2,8 @@ description: The starter theme template of HB (Hugo Bootstrap) Framework.
 
 hb:
   header:
-    brand: HB
-    logo_bg: '#712cf9'
+    brand: HB # the brand name, leave it empty to use site's title.
+    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     socials:
       github: hbstack
       kofi: razonyang
@@ -18,10 +18,10 @@ hb:
       twitter: razonyang
       mastodon: razonyang
   blog:
-    home:
-      recent_posts: 12
-      featured_posts: 5
-      main_sections:
+    home: # homepage settings.
+      recent_posts: 12 # the number of the recent posts.
+      featured_posts: 5 # the number of the featured posts.
+      main_sections: # leave it empty to include all regular pages.
         - docs
         - blog
         - tutorials
@@ -36,9 +36,10 @@ hb:
       category_id: DIC_kwDOJP3qtM4CVavM
 
 seo:
-  favicons:
+  favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
     icon: images/logo.png # use logo as favicon.
 
+# PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:
   debug: false
   manifest:
