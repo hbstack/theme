@@ -5,6 +5,7 @@ date: {{ .Date }}
 draft: true
 description: 
 noindex: false
+# comments: false
 nav_weight: 1000
 # nav_icon:
 #   vendor: bootstrap
