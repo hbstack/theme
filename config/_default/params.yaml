@@ -34,6 +34,12 @@ hb:
       repo: hbstack/theme
       repo_id: R_kgDOJP3qtA
       category_id: DIC_kwDOJP3qtM4CVavM
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: hbstack/theme
+      branch: main
+      # subpath: exampleSite
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module

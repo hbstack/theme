@@ -26,15 +26,21 @@ module:
     # - path: github.com/hugomods/icons/vendors/tabler
     # - path: github.com/hugomods/icons/vendors/feather
 
-    # docs comments engine
+    # blog comments engine
     - path: github.com/hbstack/blog/modules/giscus
     # - path: github.com/hbstack/blog/modules/disqus
     # - path: github.com/hbstack/blog/modules/utterances
+
+    # blog content panel
+    - path: github.com/hbstack/blog/modules/content-panel
 
     # docs comments engine
     - path: github.com/hbstack/docs/modules/giscus
     # - path: github.com/hbstack/docs/modules/utterances
     # - path: github.com/hbstack/docs/modules/disqus
+
+    # docs content panel
+    - path: github.com/hbstack/docs/modules/content-panel
 
     # other modules
     # - path: github.com/hugomods/google-analytics
