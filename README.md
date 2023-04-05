@@ -5,7 +5,7 @@ The starter theme template of [HB Framework](https://hb.hugomods.com).
 ## Features
 
 - **Fast** and **SEO** friendly: [PageSpeed Insight](https://pagespeed.web.dev/analysis?url=https://hb-theme.hugomods.com/en/) scored perfect :100: in all four metrics on mobile and desktop.
-- **Multi-purpose**: blog, project documentations, digital garden, gallery and so on.
+- **Multi-purpose**: blog, project documentations, digital garden, gallery, landing pages and so on.
 - **Responsive**: mobile first, built on top of Bootstrap v5.3.
 - :ice_cube: **Modular** and **flexible**: extend features via various modules.
 - :first_quarter_moon: **Dark mode**: light, dark or auto (follow system).
