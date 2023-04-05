@@ -2,7 +2,7 @@
   "name": "hb-theme",
   "description": "The starter theme template of [HB Framework](https://hb.hugomods.com).",
   "scripts": {
-    "dev": "hugo server --gc --disableFastRender --enableGitInfo",
+    "dev": "hugo server --gc --disableFastRender --enableGitInfo -D",
     "prod": "hugo server --gc --disableFastRender --enableGitInfo --renderToDisk --minify -p 1314"
   },
   "repository": {
