@@ -45,7 +45,7 @@ jobs:
           extended: true
 
       - name: Install Node.js dependencies
-        run: npm i -g postcss-cli autoprefixer @fullhuman/postcss-purgecss rtlcss
+        run: npm ci
 
       - name: Build with Hugo
         env:
