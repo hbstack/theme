@@ -1,0 +1,24 @@
+{
+  "name": "hb-theme",
+  "description": "The starter theme template of [HB Framework](https://hb.hugomods.com).",
+  "scripts": {
+    "dev": "hugo server --gc --disableFastRender --enableGitInfo",
+    "prod": "hugo server --gc --disableFastRender --enableGitInfo --renderToDisk --minify -p 1314"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstack/theme.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbstack/theme/issues"
+  },
+  "homepage": "https://github.com/hbstack/theme#readme",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss-cli": "^10.1.0",
+    "rtlcss": "^4.0.0"
+  }
+}
