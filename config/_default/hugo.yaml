@@ -16,6 +16,9 @@ module:
 
   # The order of module is very important, precedence from top to bottom.
   imports:
+    - path: github.com/hbstack/gallery
+    - path: github.com/hbstack/gallery/modules/breadcrumb
+
     # syntax highlighting, see https://hb.hugomods.com/en/docs/modules/syntax-highlighting/.
     # - path: github.com/hbstack/syntax-highlighting/styles/github-dark
   
