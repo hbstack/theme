@@ -106,6 +106,8 @@ github.com/hugomods/icons/vendors/font-awesome v0.6.0 h1:B5OwUkpVupNdtxyRlU+572H
 github.com/hugomods/icons/vendors/font-awesome v0.6.0/go.mod h1:6e81kH7XzgVySHRQtc+cA4bSabpCuZHorQL8LPv7raE=
 github.com/hugomods/katex v0.1.2 h1:F+G/zWPwdw06IhtdW6IQ0mqUsMVuEw+gWq+Y//CIjZE=
 github.com/hugomods/katex v0.1.2/go.mod h1:PyYvL1TtHIE5jbDHGnCT1XEnKFqdkqveU7AJtcBruu8=
+github.com/hugomods/search v0.1.2 h1:WOhPTlPIGqfh3ZYKAsgPfC9pW80rW2axAE0MTErz+Uk=
+github.com/hugomods/search v0.1.2/go.mod h1:DvQd/Hm/l+iPnOqH06c2F1Yk5UilWpTJwrmo12uSO/Q=
 github.com/hugomods/seo/modules/alternatives v0.1.0 h1:G5IjM7j7ExgXEMyxQj1Z/5JwwRW8DEmL0nDJYxA3NhE=
 github.com/hugomods/seo/modules/alternatives v0.1.0/go.mod h1:ff9uz+f5yii9k2jbwt/HKM3RpLR3EYZrNQBAOabNxMA=
 github.com/hugomods/seo/modules/favicons v0.1.0 h1:3uzqOfzgBFdvGr8a7mh+yv03oXuxzXnHh+cWGJ4gCOQ=
