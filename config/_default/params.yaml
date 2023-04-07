@@ -18,8 +18,8 @@ hb:
       twitter: razonyang
       mastodon: razonyang
   blog:
+    paginate: 12 # paginate.
     home: # homepage settings.
-      recent_posts: 12 # the number of the recent posts.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
         - docs
