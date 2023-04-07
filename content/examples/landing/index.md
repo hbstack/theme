@@ -7,8 +7,14 @@ layout: landing
 
 # Landing Page Example
 
-This theme offers a simple landing page layout which consist of three parts: header, body and footer.
+This theme offers a simple landing page layout which consist of three parts: header, body and footer, the body is the content itself.
 
-## Body
+## How to Use it?
 
-The body is the content itself.
+Specify the `layout` as `landing` on the front matter.
+
+{{< bs/config-toggle >}}
+layout: landing
+{{< /bs/config-toggle >}}
+
+And then writing the content.
