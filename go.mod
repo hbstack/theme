@@ -26,7 +26,7 @@ require (
 	github.com/hbstack/docs/modules/heading-sign v0.1.1 // indirect
 	github.com/hbstack/footer v0.1.5 // indirect
 	github.com/hbstack/footer/modules/socials v0.1.2 // indirect
-	github.com/hbstack/gallery v0.2.2 // indirect
+	github.com/hbstack/gallery v0.3.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.1.4 // indirect
 	github.com/hbstack/header v0.1.10 // indirect
