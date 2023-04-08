@@ -6,6 +6,7 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
 disqusShortname: hb-site
 enableRobotsTXT: true
+timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 
 permalinks:
   blog: /blog/:year/:month/:title
