@@ -1,8 +1,8 @@
 description: The starter theme template of HB (Hugo Bootstrap) Framework.
 
 hb:
-  js_bundle_name: main # the JS bundle name.
-  css_bundle_name: main # the CSS bundle name.
+  # js_bundle_name: main # the JS bundle name.
+  # css_bundle_name: main # the CSS bundle name.
   header:
     brand: HB # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
