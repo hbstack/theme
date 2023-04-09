@@ -1,0 +1,7 @@
+classes = []
+ids = []
+tags = []
+attributes = []
+safelist_deep = []
+safelist_greedy = []
+safelist_standard = []
