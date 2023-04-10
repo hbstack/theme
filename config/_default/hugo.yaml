@@ -4,7 +4,7 @@ title: HB Theme Template
 copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com) and [Hugo Bootstrap Framework](https://hb.hugomods.com). All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
-disqusShortname: hb-site
+# disqusShortname: hb-site # The Disqus shortname.
 enableRobotsTXT: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 
@@ -13,7 +13,8 @@ permalinks:
 
 module:
   # For some regions can not access the proxy.golang.org, i.e. China.
-  # proxy: https://goproxy.cn,https://goproxy.io,https://mirrors.aliyun.com/goproxy,direct
+  # See https://hugomods.com/en/blog/2023/04/go-and-hugo-proxy-servers/ for all available proxy servers.
+  # proxy: https://goproxy.cn,direct
 
   # The order of module is very important, precedence from top to bottom.
   imports:
