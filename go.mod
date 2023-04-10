@@ -7,7 +7,7 @@ require (
 	github.com/hbstack/back-to-top v0.1.2 // indirect
 	github.com/hbstack/base v0.1.3 // indirect
 	github.com/hbstack/bigger-picture v0.6.1 // indirect
-	github.com/hbstack/blog v0.8.0 // indirect
+	github.com/hbstack/blog v0.8.1 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.0 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.1.3 // indirect
@@ -16,7 +16,7 @@ require (
 	github.com/hbstack/blog/modules/post-nav v0.2.0 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.1 // indirect
 	github.com/hbstack/bootstrap v0.1.2 // indirect
-	github.com/hbstack/carousel v0.1.13 // indirect
+	github.com/hbstack/carousel v0.2.0 // indirect
 	github.com/hbstack/code-block-panel v0.1.1 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.0 // indirect
