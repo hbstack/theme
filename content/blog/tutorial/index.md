@@ -42,35 +42,9 @@ A simple tutorial that offers samples and code snippets show how to create rich 
 
 ## Installation
 
+**Please note that this theme requires the newest extended Hugo version.**
+
 Please check out the [installation](https://hb.hugomods.com/en/docs/getting-started/installation) section.
-
-### Install Dependencies
-
-```sh
-npm ci
-```
-
-Or install globally.
-
-```sh
-sudo npm i -g postcss-cli @fullhuman/postcss-purgecss autoprefixer rtlcss
-```
-
-The later is best for multiple HB sites, since it's required to executed once. Both of them are valid, choose the one you like.
-
-### Start Hugo Server
-
-```sh
-npm run dev
-```
-
-Now you can access the site via http://localhost:1313.
-
-{{< bootstrap/alert >}}
-{{% markdownify %}}
-This template predefined a script **npm run prod** for previewing the site on production mode, which can be accessed on http://localhost:1314.
-{{% /markdownify %}}
-{{< /bootstrap/alert >}}
 
 ## Create Content
 
@@ -79,13 +53,6 @@ hugo new blog/new-post/index.md
 ```
 
 The created content is in draft stage, you'll need to publish the content by removing the `draft` or setting the `draft` as `true` on front matter.
-
-{{< bootstrap/alert >}}
-{{% markdownify %}}
-To preview the drafts, please use the `--buildDrafts` (`-D`) flag on `hugo server`, such as `hugo server --gc -D --disableFastRender`.
-> **npm run dev** will build drafts by default.
-{{% /markdownify %}}
-{{< /bootstrap/alert >}}
 
 ## Code Block
 
