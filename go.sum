@@ -16,8 +16,7 @@ github.com/hbstack/blog/modules/featured-image v0.1.2 h1:24BNh9vw2qzybqvp0ETIWju
 github.com/hbstack/blog/modules/featured-image v0.1.2/go.mod h1:JKpidw9qi7LsXusD1sEzUvte32xPJ2E2/YnYE5Mvm/o=
 github.com/hbstack/blog/modules/giscus v0.1.2 h1:p3siL6hCR9eGeY6A20oaW5xLq/z4J+XN0+jXZYsmCDw=
 github.com/hbstack/blog/modules/giscus v0.1.2/go.mod h1:kQFX6A2YrSApm9pYDUaepuClxAj2jGWNIXqnwtKaMSE=
-github.com/hbstack/blog/modules/heading-sign v0.1.2 h1:jV91+wmWqflBFYE2NaLobOHmagNjyfk6iaaqQCnxXtY=
-github.com/hbstack/blog/modules/heading-sign v0.1.2/go.mod h1:8NogUjxcf3kiUL1QFGb0r2NAFTVkBwrKs0CiCv+p/Rc=
+github.com/hbstack/blog/modules/heading-sign v0.1.3 h1:BWSZi1ZY2d7iTfqGMfTAsZ6CftnxvKLGNct/cnqnS5Y=
 github.com/hbstack/blog/modules/heading-sign v0.1.3/go.mod h1:8NogUjxcf3kiUL1QFGb0r2NAFTVkBwrKs0CiCv+p/Rc=
 github.com/hbstack/blog/modules/post-nav v0.2.0 h1:+hQSgrZHChUs/niOeroBKzzJ3If2FtICYB+AutWUf2s=
 github.com/hbstack/blog/modules/post-nav v0.2.0/go.mod h1:v+e/Mra2ziX9W/Wx/0Wdc5yEq+uMTmb9rMOCmeO1a4g=
@@ -40,8 +39,7 @@ github.com/hbstack/docs/modules/featured-image v0.1.2 h1:3Ni4hw7q4v8T/658f5RCV/x
 github.com/hbstack/docs/modules/featured-image v0.1.2/go.mod h1:mNB62QK0DmJh0o12mqbsXZbjLm7/Ex/cyJXegZW8rPk=
 github.com/hbstack/docs/modules/giscus v0.1.2 h1:9AkjbOBJmdfBz5/yP7mDD/7OMUzjLJfCilAw3HOnDcU=
 github.com/hbstack/docs/modules/giscus v0.1.2/go.mod h1:sQ786lQxU5woV3LZ6JGqMSl77X5bk2rCwV1pH/LBlLE=
-github.com/hbstack/docs/modules/heading-sign v0.1.1 h1:3KheyC1ZbAqvJofX+eJ9vYj4rDJOEUUKuqw7iNzChPI=
-github.com/hbstack/docs/modules/heading-sign v0.1.1/go.mod h1:wgRW6JQTBJQXsq0YWg9+GYTptivcWfwjf9txK5WSkqc=
+github.com/hbstack/docs/modules/heading-sign v0.1.2 h1:lGY1OwX2xFBT8eDwCeZjbZtTjlYfCUa6MQwOBjOgKnE=
 github.com/hbstack/docs/modules/heading-sign v0.1.2/go.mod h1:EE7uwT4/rcJf/CCIOD0Ss7FsIDGTdFrag80KbF4/Xbs=
 github.com/hbstack/footer v0.1.5 h1:q3XRNmX8DCxAQytf9dkyVipsxKse914wc5ZlWgb5VU4=
 github.com/hbstack/footer v0.1.5/go.mod h1:/5XwQ9xyCE0LpngSnGUiz8YGGAQKe6OIlwATPETCXgc=
@@ -95,8 +93,8 @@ github.com/hbstack/syntax-highlighting v0.1.0 h1:WxdhNgCktllNKQDqu1BmLmg9dsi77/d
 github.com/hbstack/syntax-highlighting v0.1.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 h1:lGH8nqOU/+3yzHIk5s1nTrzHDImEnvLkr/0viuPfx3Y=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
-github.com/hugomods/bootstrap v0.4.0 h1:+LjPNnoD06HEX2s6AWQpMvdnC/16TdhlzHzt4Awhf/A=
-github.com/hugomods/bootstrap v0.4.0/go.mod h1:MfowtRlnj0TzwxpTgCABFu6TqV/xO0Dfo5Vf3iyZNAA=
+github.com/hugomods/bootstrap v0.5.0 h1:3cUbj8wF+md8uVwotnnhUJryefSU6lx1DQYeeYT+5kc=
+github.com/hugomods/bootstrap v0.5.0/go.mod h1:9TI50sOorZ+hlfE3stSNXoRWBB9q6ZS5d3yjW1JU8vs=
 github.com/hugomods/fuse-js v0.1.0 h1:CmWHBZANvjOP44RDNQNLntqlLf9GLqeM29jekxTNcPE=
 github.com/hugomods/fuse-js v0.1.0/go.mod h1:srCqvtBQR02HS/abTraDU4oINv1D3PljNPdexdoHhpo=
 github.com/hugomods/giscus v0.1.0 h1:tIu1TzYByC/XlxxiBl9+CkQp9OeR4UhoZjbQSlcDt5E=
