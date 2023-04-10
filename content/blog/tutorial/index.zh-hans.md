@@ -42,35 +42,9 @@ A simple tutorial that offers samples and code snippets show how to create rich 
 
 ## 安装
 
+**Please note that this theme requires the newest extended Hugo version.**
+
 Please check out the [installation](https://hb.hugomods.com/en/docs/getting-started/installation) section.
-
-### 安装依赖
-
-```sh
-npm ci
-```
-
-或者全局安装。
-
-```sh
-sudo npm i -g postcss-cli @fullhuman/postcss-purgecss autoprefixer rtlcss
-```
-
-后者最适合多个 HB 站点，因为它需要执行一次。两个都成立，选一个你喜欢的。
-
-### 启动 Hugo 服务器
-
-```sh
-npm run dev
-```
-
-现在可以通过 http://localhost:1313 访问站点。
-
-{{< bootstrap/alert >}}
-{{% markdownify %}}
-该模板预定义了一个 **npm run prod** 脚本，用于预览生产环境的站点，其可以通过 http://localhost:1314 进行访问。
-{{% /markdownify %}}
-{{< /bootstrap/alert >}}
 
 ## 新增内容
 
