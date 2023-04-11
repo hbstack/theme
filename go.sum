@@ -28,8 +28,8 @@ github.com/hbstack/carousel v0.2.0 h1:NMWvhg8kJ8RCq6pwmDupIg3mzbkgvjypKNh7B/idXS
 github.com/hbstack/carousel v0.2.0/go.mod h1:qUmtQEgnnNrnNumiCbAV9hgiitlW4KrQs1W7b2TlAqI=
 github.com/hbstack/code-block-panel v0.1.1 h1:9fHjXmlU7x8nbWI3Qr9t5YnRDtaF9auqPWMpsUNMGuc=
 github.com/hbstack/code-block-panel v0.1.1/go.mod h1:EJ9PgJrLnJ8DQ0SxU6DrdOesLF1h+YF1MCtMd0DodQg=
-github.com/hbstack/docs v0.1.3 h1:246yt4Mg51xvECMgaz3hlNuApi5NTBk2JEd+tOK+goE=
-github.com/hbstack/docs v0.1.3/go.mod h1:ySIvxCQqAcDt7dcHJo/c6S3GsxfBsjIBA2mmhy5eNdo=
+github.com/hbstack/docs v0.1.4 h1:R1f/Yo6sTLk315CipJeCwwBhcBfZK7mTwwyzXWjtrc8=
+github.com/hbstack/docs v0.1.4/go.mod h1:RA07YdmW5Wes/39SmE+2zDikVLUgFSTC/b1RlKGF1s0=
 github.com/hbstack/docs/modules/breadcrumb v0.1.2 h1:f2BxzQWg1sQnGb///SVuiW68wDeQM+XkV/f5ppIZrgw=
 github.com/hbstack/docs/modules/breadcrumb v0.1.2/go.mod h1:tD2ukJTqwxngo6vp6x/DHbJvjvc5CIUPn6bKoFx1yQU=
 github.com/hbstack/docs/modules/content-panel v0.1.0 h1:qRiBmIp64Md0b9nKZDmwotru9aL+tN6s39C4ezPKJVw=
