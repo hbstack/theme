@@ -16,6 +16,8 @@ A fast, responsive and feature-rich Hugo theme for blog and documentations site.
 
 <!--more-->
 
+## Greeting
+
 ```sh
-echo "hello world"
+echo "Hi there"
 ```
