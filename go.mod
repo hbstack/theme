@@ -14,7 +14,7 @@ require (
 	github.com/hbstack/blog/modules/giscus v0.1.2 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.3 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.0 // indirect
-	github.com/hbstack/blog/modules/related-posts v0.1.1 // indirect
+	github.com/hbstack/blog/modules/related-posts v0.1.2 // indirect
 	github.com/hbstack/bootstrap v0.1.2 // indirect
 	github.com/hbstack/carousel v0.2.0 // indirect
 	github.com/hbstack/code-block-panel v0.1.1 // indirect
@@ -49,6 +49,7 @@ require (
 	github.com/hbstack/pwa v0.1.2 // indirect
 	github.com/hbstack/scrollbar v0.1.0 // indirect
 	github.com/hbstack/search v0.1.7 // indirect
+	github.com/hbstack/slide v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 // indirect
 	github.com/hugomods/bootstrap v0.5.0 // indirect

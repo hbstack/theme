@@ -79,3 +79,22 @@ markup:
     noClasses: false
     lineNos: true
     lineNumbersInTable: false
+
+# see https://gohugo.io/content-management/related/#configure-related-content
+related:
+  includeNewer: true
+  indices:
+  - name: keywords
+    weight: 100
+  - name: tags
+    weight: 80
+  - name: categories
+    weight: 60
+  - name: series
+    weight: 60
+  - name: authors
+    weight: 10
+  - name: date
+    weight: 10
+  threshold: 10 # for testing, increase it to suit your case.
+  toLower: false

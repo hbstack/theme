@@ -24,6 +24,7 @@ The starter theme template of [HB Framework](https://hb.hugomods.com).
 - :framed_picture: **Images Processing**: process images via URL query string and fragment, such as alignment, resizing, cropping and so on, friendly to Markdown.
 - :computer: **Code block panel**: expand toggle, code copy button, line number toggle and wrap toggle.
 - **Menus**: supports header menus and footer menus.
+- Related posts slide.
 - :framed_picture: Image viewer: zoom in/out image.
 - :card_index_dividers:	**Archives**: group by year and month.
 - :memo: **Multiple authors**: articles can be co-authored.
