@@ -101,6 +101,7 @@ github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 h1:lGH8nqOU/+3yzHIk
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
 github.com/hugomods/bootstrap v0.5.0 h1:3cUbj8wF+md8uVwotnnhUJryefSU6lx1DQYeeYT+5kc=
 github.com/hugomods/bootstrap v0.5.0/go.mod h1:9TI50sOorZ+hlfE3stSNXoRWBB9q6ZS5d3yjW1JU8vs=
+github.com/hugomods/bootstrap v0.6.0/go.mod h1:9TI50sOorZ+hlfE3stSNXoRWBB9q6ZS5d3yjW1JU8vs=
 github.com/hugomods/fuse-js v0.1.0 h1:CmWHBZANvjOP44RDNQNLntqlLf9GLqeM29jekxTNcPE=
 github.com/hugomods/fuse-js v0.1.0/go.mod h1:srCqvtBQR02HS/abTraDU4oINv1D3PljNPdexdoHhpo=
 github.com/hugomods/giscus v0.1.0 h1:tIu1TzYByC/XlxxiBl9+CkQp9OeR4UhoZjbQSlcDt5E=
