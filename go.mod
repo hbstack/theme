@@ -21,7 +21,7 @@ require (
 	github.com/hbstack/docs v0.1.4 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.0 // indirect
-	github.com/hbstack/docs/modules/doc-nav v0.2.0 // indirect
+	github.com/hbstack/docs/modules/doc-nav v0.2.1 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.0 // indirect
 	github.com/hbstack/docs/modules/giscus v0.1.2 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.2 // indirect
