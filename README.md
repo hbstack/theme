@@ -1,6 +1,6 @@
 # HB Theme Template
 
-The starter theme template of [HB Framework](https://hb.hugomods.com).
+The starter theme template of [HB Framework](https://hb.hugomods.com), live demo: https://hb-theme.hugomods.com/.
 
 ## Features
 
@@ -34,14 +34,6 @@ The starter theme template of [HB Framework](https://hb.hugomods.com).
 - Social links: supports header and footer social links.
 - Content: supports KaTex (math), Mermaid (diagrams) and Bootstrap shortcodes.
 - ...
-
-## Live Demos
-
-| Platform | URL |
-| -------- | --- |
-| Cloudflare Pages | https://hb-theme.hugomods.com/ |
-| GitHub Pages | https://hbstack.github.io/theme/ |
-| Netlify | https://hb-theme.netlify.app/ |
 
 ## Screenshot
 
