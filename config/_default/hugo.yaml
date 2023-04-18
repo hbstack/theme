@@ -1,7 +1,7 @@
-baseURL: https://hb-theme.hugomods.com/
+baseURL: https://theme.hbstack.dev/
 title: HB Theme Template
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com) and [Hugo Bootstrap Framework](https://hb.hugomods.com). All Rights Reserved."
+copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
 # disqusShortname: hb-site # The Disqus shortname.
@@ -22,7 +22,7 @@ module:
     - path: github.com/hbstack/gallery
     - path: github.com/hbstack/gallery/modules/breadcrumb
 
-    # syntax highlighting, see https://hb.hugomods.com/en/docs/modules/syntax-highlighting/.
+    # syntax highlighting, see https://hbstack.dev/en/docs/modules/syntax-highlighting/.
     # - path: github.com/hbstack/syntax-highlighting/styles/github-dark
   
     # icons modules

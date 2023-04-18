@@ -1,10 +1,10 @@
 # HB Theme Template
 
-The starter theme template of [HB Framework](https://hb.hugomods.com), live demo: https://hb-theme.hugomods.com/.
+The starter theme template of [HB Framework](https://hbstack.dev/), live demo: https://theme.hbstack.dev/.
 
 ## Features
 
-- **Fast** and **SEO** friendly: [PageSpeed Insight](https://pagespeed.web.dev/analysis?url=https://hb-theme.hugomods.com/en/) scored perfect :100: in all four metrics on mobile and desktop.
+- **Fast** and **SEO** friendly: [PageSpeed Insight](https://pagespeed.web.dev/analysis?url=https://theme.hbstack.dev/en/) scored perfect :100: in all four metrics on mobile and desktop.
 - **Multi-purpose**: blog, project documentations, digital garden, gallery, landing pages and so on.
 - **Responsive**: mobile first, built on top of Bootstrap v5.3.
 - :ice_cube: **Modular** and **flexible**: extend features via various modules.

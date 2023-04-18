@@ -44,7 +44,7 @@ A simple tutorial that offers samples and code snippets show how to create rich 
 
 **Please note that this theme requires the newest extended Hugo version.**
 
-Please check out the [installation](https://hb.hugomods.com/en/docs/getting-started/installation) section.
+Please check out the [installation](https://hbstack.dev/en/docs/getting-started/installation/) section.
 
 ## Create Content
 
@@ -72,7 +72,7 @@ console.log('Hello world!')
 
 ### Code Syntax Highlighting Styles
 
-HB offers dozens of syntax highlighting styles, find more on [syntax highlighting styles modules](https://hb.hugomods.com/en/docs/modules/syntax-highlighting/).
+HB offers dozens of syntax highlighting styles, find more on [syntax highlighting styles modules](https://hbstack.dev/en/docs/modules/syntax-highlighting/).
 
 Import the desired style module and restart the Hugo server (load module's assets fully) to preview.
 

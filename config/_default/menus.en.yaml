@@ -11,7 +11,7 @@ main:
 
   - name: Documentations
     parent: support
-    url: https://hb.hugomods.com/
+    url: https://hbstack.dev/
     weight: 1
     params:
       icon:

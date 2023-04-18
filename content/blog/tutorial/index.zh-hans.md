@@ -44,7 +44,7 @@ A simple tutorial that offers samples and code snippets show how to create rich 
 
 **Please note that this theme requires the newest extended Hugo version.**
 
-Please check out the [installation](https://hb.hugomods.com/en/docs/getting-started/installation) section.
+Please check out the [installation](https://hbstack.dev/en/docs/getting-started/installation) section.
 
 ## 新增内容
 
@@ -79,7 +79,7 @@ console.log('Hello world!')
 
 ### 代码高亮样式
 
-HB 提供了数十个代码高亮样式，详情请参阅[代码高亮样式模块](https://hb.hugomods.com/en/docs/modules/syntax-highlighting/)。
+HB 提供了数十个代码高亮样式，详情请参阅[代码高亮样式模块](https://hbstack.dev/en/docs/modules/syntax-highlighting/)。
 
 导入对应的样式模块，并重启 Hugo 服务器以完整地载入模块的资源。
 
