@@ -7,6 +7,7 @@ defaultContentLanguageInSubdir: true # disable this to remove the default langua
 # disqusShortname: hb-site # The Disqus shortname.
 enableRobotsTXT: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
+enableEmoji: true
 
 permalinks:
   blog: /blog/:year/:month/:title
