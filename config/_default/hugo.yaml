@@ -37,6 +37,9 @@ module:
     # - path: github.com/hbstack/blog/modules/disqus
     # - path: github.com/hbstack/blog/modules/utterances
 
+    # blog table of contents scrollspy
+    - path: github.com/hbstack/blog/modules/toc-scrollspy
+
     # blog content panel
     - path: github.com/hbstack/blog/modules/content-panel
 
@@ -44,6 +47,9 @@ module:
     - path: github.com/hbstack/docs/modules/giscus
     # - path: github.com/hbstack/docs/modules/utterances
     # - path: github.com/hbstack/docs/modules/disqus
+
+    # docs table of contents scrollspy
+    - path: github.com/hbstack/docs/modules/toc-scrollspy
 
     # docs content panel
     - path: github.com/hbstack/docs/modules/content-panel
