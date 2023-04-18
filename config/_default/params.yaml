@@ -6,19 +6,15 @@ hb:
   header:
     brand: HB # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: hbstack
-      kofi: razonyang
-      paypal: razonyang
       twitter: razonyang
-      mastodon: razonyang
   footer:
+    # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: hbstack
-      kofi: razonyang
-      paypal: razonyang
       twitter: razonyang
-      mastodon: razonyang
   blog:
     paginate: 12 # paginate.
     # post_thumbnail: false # whether to show the thumbnails.
