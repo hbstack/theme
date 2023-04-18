@@ -17,4 +17,4 @@ Specify the `layout` as `landing` on the front matter.
 layout: landing
 {{< /bs/config-toggle >}}
 
-And then writing the content.
+And then writing the content with [Markdown](https://hbstack.dev/en/docs/content/markdown-syntax/) and [shortcodes](https://hbstack.dev/en/docs/content/shortcodes/).

@@ -17,4 +17,4 @@ layout: landing
 layout: landing
 {{< /bs/config-toggle >}}
 
-然后编写内容即可。
+然后以 [Markdown](https://hbstack.dev/zh-hans/docs/content/markdown-syntax/) 和[短代码](https://hbstack.dev/zh-hans/docs/content/shortcodes/)编写内容即可。
