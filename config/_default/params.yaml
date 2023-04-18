@@ -59,6 +59,17 @@ pwa:
     theme_color: '#712cf9'
     short_name: 'HB Theme'
 
+# see https://hugomods.com/en/docs/search/#site-parameters
+search:
+  stall_threshold: 300
+  min_match_char_length: 2
+  case_sensitive: false
+  shortcut_search: ["/"]
+
+mermaid:
+  # replace it with other CDNs or self-hosted URLs.
+  js_url: https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs
+
 hugopress:
   modules:
     hb-custom:

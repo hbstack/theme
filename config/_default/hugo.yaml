@@ -1,10 +1,9 @@
 baseURL: https://theme.hbstack.dev/
-title: HB Theme Template
+title: HB Starter Theme Template
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
-# disqusShortname: hb-site # The Disqus shortname.
+defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 enableRobotsTXT: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 enableEmoji: true
@@ -19,6 +18,7 @@ module:
 
   # The order of module is very important, precedence from top to bottom.
   imports:
+    # gallery modules.
     - path: github.com/hbstack/gallery
     - path: github.com/hbstack/gallery/modules/breadcrumb
 
@@ -59,24 +59,27 @@ module:
     # - path: github.com/hugomods/google-adsense
 
     # recommended modules
+    # check which modules were imported by recommended module by "hugo mod graph | grep recommended".
+    # see also https://hbstack.dev/en/docs/modules/meta/.
+    # to remove unused modules, you need to replace the recommended module with modules your need.
     - path: github.com/hbstack/meta/recommended
 
 outputs:
   home:
     - HTML
-    - Offline
+    - Offline        # required by PWA module for displaying the offline pages.
     - RSS
-    - SearchIndex
-    - WebAppManifest
+    - SearchIndex    # required by search module.
+    - WebAppManifest # required by PWA module to make your site installable.
 
 taxonomies:
-  authors: authors
+  authors: authors       # multiple authors.
   tags: tags
   categories: categories
   series: series
 
 build:
-  writeStats: true
+  writeStats: true # required by PurgeCSS.
 
 markup:
   goldmark:
