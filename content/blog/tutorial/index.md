@@ -36,13 +36,13 @@ authors:
   - hugomods
 ---
 
-A simple tutorial that offers samples and code snippets show how to create rich content.
+A simple tutorial that offers samples and code snippets show how to create rich content, please refer to the [documentations](https://hbstack.dev/en/) for more usage.
 
 <!--more-->
 
 ## Installation
 
-**Please note that this theme requires the newest extended Hugo version.**
+**Please note that this theme requires Go installation the newest extended Hugo version.**
 
 Please check out the [installation](https://hbstack.dev/en/docs/getting-started/installation/) section.
 
@@ -52,7 +52,7 @@ Please check out the [installation](https://hbstack.dev/en/docs/getting-started/
 hugo new blog/new-post/index.md
 ```
 
-The created content is in draft stage, you'll need to publish the content by removing the `draft` or setting the `draft` as `true` on front matter.
+The created content is in draft stage, you'll need to publish the content by removing the `draft` or setting the `draft` as `true` on front matter. Learn on on [content](https://hbstack.dev/en/docs/content/).
 
 ## Code Block
 
@@ -116,10 +116,8 @@ Read more on [Mermaid Usage](https://hugomods.com/en/docs/content/mermaid/#usage
 
 ## Shortcodes
 
-In addition to Hugo built-in shortcodes, HB integrated the [Bootstrap](https://hugomods.com/en/docs/bootstrap/) module, which ships several useful shortcodes:
+Learn more on [shortcodes](https://hbstack.dev/en/docs/shortcodes/).
 
-- [Alert Shortcode](https://hugomods.com/en/docs/bootstrap/alert/).
-- [Clearfix Shortcode](https://hugomods.com/en/docs/bootstrap/clearfix/).
-- [Collapse Shortcode](https://hugomods.com/en/docs/bootstrap/collapse/).
-- [Config Toggle Shortcode](https://hugomods.com/en/docs/bootstrap/config-toggle/).
-- [Toggle Shortcode](https://hugomods.com/en/docs/bootstrap/toggle/).
+## Deployment
+
+See [deployment](https://hbstack.dev/en/docs/deployment/) for deploying your site.

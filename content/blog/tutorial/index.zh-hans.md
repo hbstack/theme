@@ -36,15 +36,15 @@ authors:
   - hugomods
 ---
 
-A simple tutorial that offers samples and code snippets show how to create rich content.
+本教程提供简单的示例和代码段，以展示如何创建富文本，更多用法请查阅[文档](https://hbstack.dev/zh-hans/)。
 
 <!--more-->
 
 ## 安装
 
-**Please note that this theme requires the newest extended Hugo version.**
+**请注意本主题需要安装 Go 和最新的扩展版 Hugo。**
 
-Please check out the [installation](https://hbstack.dev/en/docs/getting-started/installation) section.
+详情请阅读[安装](https://hbstack.dev/zh-hans/docs/getting-started/installation)一文。
 
 ## 新增内容
 
@@ -79,7 +79,7 @@ console.log('Hello world!')
 
 ### 代码高亮样式
 
-HB 提供了数十个代码高亮样式，详情请参阅[代码高亮样式模块](https://hbstack.dev/en/docs/modules/syntax-highlighting/)。
+HB 提供了数十个代码高亮样式，详情请参阅[代码高亮样式模块](https://hbstack.dev/zh-hans/docs/modules/syntax-highlighting/)。
 
 导入对应的样式模块，并重启 Hugo 服务器以完整地载入模块的资源。
 
@@ -123,10 +123,8 @@ Read more on [Mermaid Usage](https://hugomods.com/en/docs/content/mermaid/#usage
 
 ## 短代码
 
-除了 Hugo 内置的短代码外，HB 集成了 [Bootstrap](https://hugomods.com/en/docs/bootstrap/) 模块，其提供了一些使用的短代码。
+详情请参阅[短代码](https://hbstack.dev/zh-hans/docs/shortcodes/)。
 
-- [Alert Shortcode](https://hugomods.com/en/docs/bootstrap/alert/).
-- [Clearfix Shortcode](https://hugomods.com/en/docs/bootstrap/clearfix/).
-- [Collapse Shortcode](https://hugomods.com/en/docs/bootstrap/collapse/).
-- [Config Toggle Shortcode](https://hugomods.com/en/docs/bootstrap/config-toggle/).
-- [Toggle Shortcode](https://hugomods.com/en/docs/bootstrap/toggle/).
+## 部署
+
+领请参阅[部署](https://hbstack.dev/zh-hans/docs/deployment/)以部署你的站点。
