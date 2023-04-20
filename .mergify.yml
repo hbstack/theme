@@ -6,3 +6,10 @@ pull_request_rules:
     actions:
       merge:
         method: rebase
+
+  - name: Automatic merge on approval
+    conditions:
+      - "#approved-reviews-by>=1"
+    actions:
+      merge:
+        method: rebase
