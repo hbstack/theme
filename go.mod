@@ -32,7 +32,7 @@ require (
 	github.com/hbstack/gallery v0.4.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.3.0 // indirect
-	github.com/hbstack/header v0.1.12 // indirect
+	github.com/hbstack/header v0.1.13 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.2 // indirect
 	github.com/hbstack/header/modules/search v0.1.6 // indirect
 	github.com/hbstack/header/modules/socials v0.1.1 // indirect
