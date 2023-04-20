@@ -123,7 +123,7 @@ Read more on [Mermaid Usage](https://hugomods.com/en/docs/content/mermaid/#usage
 
 ## 短代码
 
-详情请参阅[短代码](https://hbstack.dev/zh-hans/docs/shortcodes/)。
+详情请参阅[短代码](https://hbstack.dev/zh-hans/docs/content/shortcodes/)。
 
 ## 部署
 

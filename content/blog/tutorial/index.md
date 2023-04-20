@@ -116,7 +116,7 @@ Read more on [Mermaid Usage](https://hugomods.com/en/docs/content/mermaid/#usage
 
 ## Shortcodes
 
-Learn more on [shortcodes](https://hbstack.dev/en/docs/shortcodes/).
+Learn more on [shortcodes](https://hbstack.dev/en/docs/content/shortcodes/).
 
 ## Deployment
 
