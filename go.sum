@@ -64,6 +64,7 @@ github.com/hbstack/gallery/modules/breadcrumb v0.1.0/go.mod h1:7E1zwN0GC59OsXAUE
 github.com/hbstack/hb v0.3.0 h1:GKsRjWEDh9pIZX4SMkopLC86RTzGQd2FSXXBof91lDQ=
 github.com/hbstack/hb v0.3.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/hb v0.4.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
+github.com/hbstack/hb v0.5.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/header v0.1.12 h1:aTD6DnKtH61EXF3Do9ANSB/IpZsum33O4l8JPkKBUc8=
 github.com/hbstack/header v0.1.12/go.mod h1:BRtu4Awm9tOa4b1wKzY8TZRhsm9IqVJh67CWnh09Yco=
 github.com/hbstack/header v0.1.13/go.mod h1:BRtu4Awm9tOa4b1wKzY8TZRhsm9IqVJh67CWnh09Yco=
