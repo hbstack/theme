@@ -130,6 +130,7 @@ github.com/hugomods/icons/vendors/font-awesome v0.6.0 h1:B5OwUkpVupNdtxyRlU+572H
 github.com/hugomods/icons/vendors/font-awesome v0.6.0/go.mod h1:6e81kH7XzgVySHRQtc+cA4bSabpCuZHorQL8LPv7raE=
 github.com/hugomods/katex v0.1.4 h1:oXQmA9rUGeyUvRAsv7UIyRdKMaVMu/u1sG6XATakjS8=
 github.com/hugomods/katex v0.1.4/go.mod h1:S8aX8RDQwTSF3v3xUO1vp8g0ZmyrzAGhxJfW6TkHTWg=
+github.com/hugomods/katex v0.1.5/go.mod h1:Vzy6VPiAHU/DWYorvq1uAdlKWPtbOG54ScnLy1X4R1k=
 github.com/hugomods/mermaid v0.1.1 h1:12b8DbdiKOTtPmkWOMXsBz3LKkAWVqa5tGkbEboj0a4=
 github.com/hugomods/mermaid v0.1.1/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
 github.com/hugomods/search v0.1.2 h1:WOhPTlPIGqfh3ZYKAsgPfC9pW80rW2axAE0MTErz+Uk=
