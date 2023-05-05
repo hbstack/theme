@@ -118,6 +118,7 @@ github.com/hugomods/mermaid v0.1.1 h1:12b8DbdiKOTtPmkWOMXsBz3LKkAWVqa5tGkbEboj0a
 github.com/hugomods/mermaid v0.1.1/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
 github.com/hugomods/search v0.1.2 h1:WOhPTlPIGqfh3ZYKAsgPfC9pW80rW2axAE0MTErz+Uk=
 github.com/hugomods/search v0.1.2/go.mod h1:DvQd/Hm/l+iPnOqH06c2F1Yk5UilWpTJwrmo12uSO/Q=
+github.com/hugomods/search v0.2.0/go.mod h1:ubxewYgrPKLvsfKvvp3xIHSEQUkST8LO7R1dHZNVBAA=
 github.com/hugomods/seo/modules/alternatives v0.1.0 h1:G5IjM7j7ExgXEMyxQj1Z/5JwwRW8DEmL0nDJYxA3NhE=
 github.com/hugomods/seo/modules/alternatives v0.1.0/go.mod h1:ff9uz+f5yii9k2jbwt/HKM3RpLR3EYZrNQBAOabNxMA=
 github.com/hugomods/seo/modules/favicons v0.2.0 h1:pzQMocbHHMNNiuE5vsCxE4qqaJBprYAUX4EOoiF+ynM=
