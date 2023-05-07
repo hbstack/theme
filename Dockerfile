@@ -1,7 +1,7 @@
 ###############
 # Build Stage #
 ###############
-FROM razonyang/hugo:exts as builder
+FROM hugomods/hugo:exts as builder
 # Base URL
 ARG HUGO_BASEURL=
 ENV HUGO_BASEURL=${HUGO_BASEURL}
@@ -17,5 +17,5 @@ RUN cp ./public/en/404.html ./public/404.html
 ###############
 # Final Stage #
 ###############
-FROM razonyang/hugo:nginx
+FROM hugomods/hugo:nginx
 COPY --from=builder /src/public /site
