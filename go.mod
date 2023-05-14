@@ -61,7 +61,7 @@ require (
 	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
 	github.com/hugomods/katex v0.1.5 // indirect
 	github.com/hugomods/mermaid v0.1.1 // indirect
-	github.com/hugomods/search v0.4.1 // indirect
+	github.com/hugomods/search v0.4.2 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.0 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.0 // indirect
 	github.com/hugomods/seo/modules/open-graph v0.1.0 // indirect

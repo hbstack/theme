@@ -127,6 +127,7 @@ github.com/hugomods/search v0.2.1/go.mod h1:ubxewYgrPKLvsfKvvp3xIHSEQUkST8LO7R1d
 github.com/hugomods/search v0.3.1/go.mod h1:HAGNaRUV4YKc73pt4WEM0lxIXrbOcKHHDgy9FvC+SxY=
 github.com/hugomods/search v0.4.0/go.mod h1:HAGNaRUV4YKc73pt4WEM0lxIXrbOcKHHDgy9FvC+SxY=
 github.com/hugomods/search v0.4.1/go.mod h1:HAGNaRUV4YKc73pt4WEM0lxIXrbOcKHHDgy9FvC+SxY=
+github.com/hugomods/search v0.4.2/go.mod h1:HAGNaRUV4YKc73pt4WEM0lxIXrbOcKHHDgy9FvC+SxY=
 github.com/hugomods/seo/modules/alternatives v0.1.0 h1:G5IjM7j7ExgXEMyxQj1Z/5JwwRW8DEmL0nDJYxA3NhE=
 github.com/hugomods/seo/modules/alternatives v0.1.0/go.mod h1:ff9uz+f5yii9k2jbwt/HKM3RpLR3EYZrNQBAOabNxMA=
 github.com/hugomods/seo/modules/favicons v0.2.0 h1:pzQMocbHHMNNiuE5vsCxE4qqaJBprYAUX4EOoiF+ynM=
