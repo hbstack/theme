@@ -36,6 +36,7 @@ github.com/hbstack/code-block-panel v0.1.1 h1:9fHjXmlU7x8nbWI3Qr9t5YnRDtaF9auqPW
 github.com/hbstack/code-block-panel v0.1.1/go.mod h1:EJ9PgJrLnJ8DQ0SxU6DrdOesLF1h+YF1MCtMd0DodQg=
 github.com/hbstack/docs v0.4.0 h1:VVXWcAiXwItS78TJwWBViNmla/j2u5QIhc/sgDmhBtE=
 github.com/hbstack/docs v0.4.0/go.mod h1:M59YY0BQ+LQodPewES7wmRkq9oT96GzdBiUyGpjjTD0=
+github.com/hbstack/docs v0.5.0/go.mod h1:9oKZEnqoUxg7+bn13yhUBbY1WzmWmW51O8kYyOKEo4w=
 github.com/hbstack/docs/modules/breadcrumb v0.1.2 h1:f2BxzQWg1sQnGb///SVuiW68wDeQM+XkV/f5ppIZrgw=
 github.com/hbstack/docs/modules/breadcrumb v0.1.2/go.mod h1:tD2ukJTqwxngo6vp6x/DHbJvjvc5CIUPn6bKoFx1yQU=
 github.com/hbstack/docs/modules/content-panel v0.1.0 h1:qRiBmIp64Md0b9nKZDmwotru9aL+tN6s39C4ezPKJVw=
