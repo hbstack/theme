@@ -60,7 +60,7 @@ search:
   stall_threshold: 300
   min_match_char_length: 2
   case_sensitive: false
-  shortcut_search: ["/"]
+  # shortcut_search: ["/"]
 
 mermaid:
   # replace it with other CDNs or self-hosted URLs.
