@@ -108,3 +108,11 @@ related:
     weight: 10
   threshold: 10 # for testing, increase it to suit your case.
   toLower: false
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO
+      - CI$
+      - PWD
+
