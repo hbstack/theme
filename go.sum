@@ -135,6 +135,7 @@ github.com/hugomods/shortcodes v0.7.0 h1:MpPh1u6JWTNnJTLc8F1yWvvaZo+e4fsVYBu9iZi
 github.com/hugomods/shortcodes v0.7.0/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
 github.com/hugomods/snackbar v0.1.1 h1:tw5RFmNL7Wc0YGkoMFAevJIZDCmVFwrMpQ4dPSF3BWQ=
 github.com/hugomods/snackbar v0.1.1/go.mod h1:ykFm0IFibeQPuPAm8Gaa27xJS/bNZcSez4omVSl2gQ0=
+github.com/hugomods/snackbar v0.1.2/go.mod h1:ykFm0IFibeQPuPAm8Gaa27xJS/bNZcSez4omVSl2gQ0=
 github.com/hugomods/workbox v0.1.0 h1:yxuTj3gT1BNf6OitxrjxSJXfmbFBj2UTwdWr142eYFQ=
 github.com/hugomods/workbox v0.1.0/go.mod h1:RpFcIcltqYsiHWJV6PHPOdMagFZxO7nrO5XUpn/TMoc=
 github.com/jakearchibald/idb v7.1.1+incompatible h1:/o1ng3qUjgMUeeKFim3J3tiQAitcVXU12pXIjSzwT/c=
