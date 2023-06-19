@@ -16,6 +16,13 @@ hb:
       github: hbstack
       twitter: razonyang
   blog:
+    sidebar:
+      posts:
+        recent_count: 5
+        featured_count: 5
+      taxonomies:
+        count: true
+        limit: 10
     paginate: 12 # paginate.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.

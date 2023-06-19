@@ -32,6 +32,10 @@ module:
     # - path: github.com/hugomods/icons/vendors/tabler
     # - path: github.com/hugomods/icons/vendors/feather
 
+    # blog sidebar
+    - path: github.com/hbstack/blog/modules/sidebar/posts
+    - path: github.com/hbstack/blog/modules/sidebar/taxonomies
+
     # blog comments engine
     - path: github.com/hbstack/blog/modules/giscus
     # - path: github.com/hbstack/blog/modules/disqus
