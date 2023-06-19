@@ -16,6 +16,7 @@ hb:
       github: hbstack
       twitter: razonyang
   blog:
+    full_width: false # when true, the blog layout takes full width.
     sidebar:
       posts:
         recent_count: 5 # the number of recent posts.
