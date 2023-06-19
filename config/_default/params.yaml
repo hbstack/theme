@@ -13,6 +13,7 @@ hb:
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
+      _color: true # when false, remove the color of social icons.
       github: hbstack
       twitter: razonyang
   blog:
