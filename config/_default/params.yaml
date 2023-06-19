@@ -93,8 +93,8 @@ hugopress:
     hb-blog-sidebar-taxonomies:
       hooks:
         hb-blog-sidebar:
-          weight: 2
+          weight: 3
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
-          weight: 3
+          weight: 2
