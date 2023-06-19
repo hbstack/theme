@@ -32,6 +32,7 @@ The starter theme template of [HB Framework](https://hbstack.dev/), live demo: h
   - Custom HTML markup:
     - [Before the end of `<head>`](https://github.com/hbstack/theme/blob/main/layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html)
     - [Before the end of `<body>`](https://github.com/hbstack/theme/blob/main/layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html)
+    - [Custom sidebar widget](https://github.com/hbstack/theme/blob/main/layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html)
 - :framed_picture: **Images Processing**: process images via URL query string and fragment, such as alignment, resizing, cropping and so on, friendly to Markdown.
 - :computer: **Code block panel**: expand toggle, code copy button, line number toggle and wrap toggle.
 - **Menus**: supports header menus and footer menus.
