@@ -102,10 +102,12 @@ github.com/hbstack/meta/header v0.2.1/go.mod h1:zMDYUSA+uC8V3db2GM8NPDP+tyZQtk6W
 github.com/hbstack/meta/header v0.2.2/go.mod h1:kYYHd5izwemd1K4v6gFABkdJWiHtX24ZT6BJnPV3Woo=
 github.com/hbstack/meta/recommended v0.2.1 h1:MTP4lwNaxG+kLN+YKhvgWawZ0G3tjE14Nem5knthVGU=
 github.com/hbstack/meta/recommended v0.2.1/go.mod h1:k63ESYvbfX1IiAKE5q0nDLlDnJj3dXTcDRChMmrYVu4=
+github.com/hbstack/meta/recommended v0.2.2/go.mod h1:DSsJZY9UR+LrtsdG8pWZ6GZ4dFrh9uNfaUTBdsQYDJA=
 github.com/hbstack/meta/seo v0.2.0 h1:0xemjrVWwLmYjzKCAmo/6vxWEHACXimjT7vlFYXgmCM=
 github.com/hbstack/meta/seo v0.2.0/go.mod h1:41BjjCbTMPJCmrepy5wXjwkV2QQxLyM8Q2kUrJpH/sM=
 github.com/hbstack/meta/standard v0.2.1 h1:BOAleN8r9yFx1T708SJPLmZhXWrCNu/4+TuKICgRKJM=
 github.com/hbstack/meta/standard v0.2.1/go.mod h1:uNuHiqPAmPQawWtldhBgY/UyjaQ+Z8cBHENuFADxa5M=
+github.com/hbstack/meta/standard v0.2.2/go.mod h1:dssoTSoKpbymg+DWCpBLU5QuLl4vDiXGzoFBomC5UuU=
 github.com/hbstack/noscript v0.2.0 h1:yAWYGD1stUicaKATrA9BnhQNjRZWgiFgP8Y7C44AqG0=
 github.com/hbstack/noscript v0.2.0/go.mod h1:Lxh6eXJijehQw92g4g+2+fVEQgVqRJXi5xGri/y+Eyo=
 github.com/hbstack/progress-bar v0.1.0 h1:2ZiGS3RFZbZYBUbT2nFCoU9SJsbD9jtV4A7ab41B4jg=

@@ -46,9 +46,9 @@ require (
 	github.com/hbstack/meta/docs v0.2.3 // indirect
 	github.com/hbstack/meta/footer v0.2.2 // indirect
 	github.com/hbstack/meta/header v0.2.2 // indirect
-	github.com/hbstack/meta/recommended v0.2.1 // indirect
+	github.com/hbstack/meta/recommended v0.2.2 // indirect
 	github.com/hbstack/meta/seo v0.2.0 // indirect
-	github.com/hbstack/meta/standard v0.2.1 // indirect
+	github.com/hbstack/meta/standard v0.2.2 // indirect
 	github.com/hbstack/noscript v0.2.0 // indirect
 	github.com/hbstack/progress-bar v0.1.0 // indirect
 	github.com/hbstack/pwa v0.1.2 // indirect
