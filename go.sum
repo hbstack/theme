@@ -87,6 +87,7 @@ github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I
 github.com/hbstack/mermaid v0.1.0/go.mod h1:dQAfzX1SA4b3k5ytA8WPR5luxjX4ii7EdtoRsr8WLNw=
 github.com/hbstack/meta/blog v0.2.2 h1:tiSMwteWuwUnbnePgEbjlhft8WLzSDTXqv7jWGtUxUU=
 github.com/hbstack/meta/blog v0.2.2/go.mod h1:epnSQ+faXwWx5RTfAioEm2Utlm1X+lx0T9yWnzDdpmY=
+github.com/hbstack/meta/blog v0.2.3/go.mod h1:zaYYLTM3hSXeT/M88W89i1HBDkJLTH3cAFALA1DAV80=
 github.com/hbstack/meta/content v0.4.2 h1:IWozLoZvDG7yVC3c5Znpvf6278TX6nRAUkhZkByP5rI=
 github.com/hbstack/meta/content v0.4.2/go.mod h1:929A+mjvO1hBlejmrb0wLckYBvwA38WlkKGj7MN+CUk=
 github.com/hbstack/meta/docs v0.2.2 h1:cd0o8B3P3Pj5LgtfM+OYHE9wFn4PlVNUd7ng+kCZYWw=
