@@ -22,7 +22,7 @@ require (
 	github.com/hbstack/carousel v0.2.2 // indirect
 	github.com/hbstack/code-block-panel v0.1.1 // indirect
 	github.com/hbstack/content-panel v0.2.1 // indirect
-	github.com/hbstack/docs v0.5.0 // indirect
+	github.com/hbstack/docs v0.6.0 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.1 // indirect
 	github.com/hbstack/docs/modules/doc-nav v0.2.1 // indirect
