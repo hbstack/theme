@@ -23,6 +23,7 @@ github.com/hbstack/blog/modules/featured-image v0.2.4/go.mod h1:wGu2dGkqXaF73Nfs
 github.com/hbstack/blog/modules/giscus v0.1.4 h1:3bJ8BqE9/LNBVFdksImfsmb6uYQAvFL8z5QQN+1Uwgg=
 github.com/hbstack/blog/modules/giscus v0.1.4/go.mod h1:TpMlaoE8jYEwlgU0+NQBNeTtzHNSU7XueZH5q0XtSAI=
 github.com/hbstack/blog/modules/giscus v0.1.6/go.mod h1:RKMEPc4KYQBBZAE3zTBcZShVljB4gOUN7K0/cbj8kAI=
+github.com/hbstack/blog/modules/giscus v0.1.7/go.mod h1:8aHD94hqxx06T3B7M5nhUzgpcHOqcZGtbhqmDpIhxWE=
 github.com/hbstack/blog/modules/heading-sign v0.1.4 h1:HIcrmsPhnwiAr3Kw2uaHypzoTG9L9QP5yheCbASB3HI=
 github.com/hbstack/blog/modules/heading-sign v0.1.4/go.mod h1:wanKVRiwfc9H8g1mTJ4ZwbNo1ow8UpR3IigFuy13AGE=
 github.com/hbstack/blog/modules/heading-sign v0.1.6/go.mod h1:3/BxqgnDri+SRKjfMBRDDQOtKeA85USqivSJ1P58rjw=
