@@ -9,7 +9,7 @@ require (
 	github.com/hbstack/bigger-picture v0.9.2 // indirect
 	github.com/hbstack/blog v0.15.3 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.9 // indirect
-	github.com/hbstack/blog/modules/content-panel v0.1.3 // indirect
+	github.com/hbstack/blog/modules/content-panel v0.1.8 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.7 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.10 // indirect
