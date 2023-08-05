@@ -37,9 +37,9 @@ require (
 	github.com/hbstack/hb v0.5.1 // indirect
 	github.com/hbstack/header v0.4.3 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.5 // indirect
-	github.com/hbstack/header/modules/search v0.1.11 // indirect
+	github.com/hbstack/header/modules/search v0.1.13 // indirect
 	github.com/hbstack/header/modules/socials v0.1.6 // indirect
-	github.com/hbstack/header/modules/theme-toggle v0.1.3 // indirect
+	github.com/hbstack/header/modules/theme-toggle v0.1.5 // indirect
 	github.com/hbstack/mermaid v0.1.0 // indirect
 	github.com/hbstack/meta/blog v0.2.5 // indirect
 	github.com/hbstack/meta/content v0.4.4 // indirect
@@ -48,7 +48,7 @@ require (
 	github.com/hbstack/meta/header v0.2.4 // indirect
 	github.com/hbstack/meta/recommended v0.2.3 // indirect
 	github.com/hbstack/meta/seo v0.2.0 // indirect
-	github.com/hbstack/meta/standard v0.2.4 // indirect
+	github.com/hbstack/meta/standard v0.2.5 // indirect
 	github.com/hbstack/noscript v0.2.0 // indirect
 	github.com/hbstack/progress-bar v0.1.0 // indirect
 	github.com/hbstack/pwa v0.1.2 // indirect

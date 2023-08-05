@@ -70,11 +70,13 @@ github.com/hbstack/header/modules/language-picker v0.1.3/go.mod h1:nR1OD8B9ifA45
 github.com/hbstack/header/modules/language-picker v0.1.5/go.mod h1:66uz/5PHLTD8+74gzCPStumMlk98gvpnaBg5pJ6SoHA=
 github.com/hbstack/header/modules/search v0.1.11 h1:oHK94E/PlAikNv8dKrFtosL2ICNTJGUOUMCX9n1TCbs=
 github.com/hbstack/header/modules/search v0.1.11/go.mod h1:aIbHinH/W5tio9d7dGut5qIe2D6+hq20d3d/ySY0L4M=
+github.com/hbstack/header/modules/search v0.1.13/go.mod h1:6HqHCnhXOAoOYo/SMB594CoDFo111t4snyHboLbE4OE=
 github.com/hbstack/header/modules/socials v0.1.4 h1:zIRJQhMLlVtz++6vz64EmwST2v8/5DJ2Th99C3QjELw=
 github.com/hbstack/header/modules/socials v0.1.4/go.mod h1:n8izOgBpgMRHdaDOoibjM7DVkVwYfxpU6LL76w08cmI=
 github.com/hbstack/header/modules/socials v0.1.6/go.mod h1:rkoeIpiyvTrmF/qgfhug/SRIVh3I3b9Cp4sqHB7Itrg=
 github.com/hbstack/header/modules/theme-toggle v0.1.3 h1:CHTgjbYGsV3qcv2DF/FJvMIt7N4fqE2BGfSJm8+CGBg=
 github.com/hbstack/header/modules/theme-toggle v0.1.3/go.mod h1:wYgpqk7Wi80HsNTOn79GZjMbuG0Z03/+lf5sUzxB+tU=
+github.com/hbstack/header/modules/theme-toggle v0.1.5/go.mod h1:k/cuCnNlBf+O/41QkAXLqj8EM1i+EmKzLZzamV9e45g=
 github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I=
 github.com/hbstack/mermaid v0.1.0/go.mod h1:dQAfzX1SA4b3k5ytA8WPR5luxjX4ii7EdtoRsr8WLNw=
 github.com/hbstack/meta/blog v0.2.5 h1:nVAALzFrEhVcCCi9T0AEYFX5RvYk12t3J8npzcAYKog=
@@ -93,6 +95,7 @@ github.com/hbstack/meta/seo v0.2.0 h1:0xemjrVWwLmYjzKCAmo/6vxWEHACXimjT7vlFYXgmC
 github.com/hbstack/meta/seo v0.2.0/go.mod h1:41BjjCbTMPJCmrepy5wXjwkV2QQxLyM8Q2kUrJpH/sM=
 github.com/hbstack/meta/standard v0.2.4 h1:MYp9Bu4ZgKJaz6xVyau8VpKihLQmdB2FX2+EHTFSzEE=
 github.com/hbstack/meta/standard v0.2.4/go.mod h1:wXmAFlzFoq+gTULVNFijJcUhQdmeNa0an+9F/NSZHsA=
+github.com/hbstack/meta/standard v0.2.5/go.mod h1:OuUsOxphJpdYwDs2ECobf2jY/PrcsrpElYXojXci2Mc=
 github.com/hbstack/noscript v0.2.0 h1:yAWYGD1stUicaKATrA9BnhQNjRZWgiFgP8Y7C44AqG0=
 github.com/hbstack/noscript v0.2.0/go.mod h1:Lxh6eXJijehQw92g4g+2+fVEQgVqRJXi5xGri/y+Eyo=
 github.com/hbstack/progress-bar v0.1.0 h1:2ZiGS3RFZbZYBUbT2nFCoU9SJsbD9jtV4A7ab41B4jg=
