@@ -32,6 +32,7 @@ github.com/hbstack/bootstrap v0.2.0 h1:pHZ1KQ0HHwhHFbgzZ401kMSxkS7Tg0I/X002SD6WH
 github.com/hbstack/bootstrap v0.2.0/go.mod h1:BqrUe89qxDkc8kxJ4iaK/XZxzZrWhlGloOFJfcNxAUU=
 github.com/hbstack/carousel v0.2.2 h1:2WQINzBXMdTsvCA6GbMiRIyAOwZ00CCNybRjBgf43sc=
 github.com/hbstack/carousel v0.2.2/go.mod h1:7ksA42jkP82YsGJqKOU9izqiZBLpIBDBuMY6+IAuTZI=
+github.com/hbstack/carousel v0.2.3/go.mod h1:BUoUKVTPOSoE2iCJABFoCURetHa6OCw6r+gr5DBYavo=
 github.com/hbstack/code-block-panel v0.1.1 h1:9fHjXmlU7x8nbWI3Qr9t5YnRDtaF9auqPWMpsUNMGuc=
 github.com/hbstack/code-block-panel v0.1.1/go.mod h1:EJ9PgJrLnJ8DQ0SxU6DrdOesLF1h+YF1MCtMd0DodQg=
 github.com/hbstack/content-panel v0.2.1 h1:gJrYTs3ZBoFtr8Nz3n0qBgYVw2p85ckHliMgSEy+Tw0=
