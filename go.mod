@@ -8,7 +8,7 @@ require (
 	github.com/hbstack/base v0.2.0 // indirect
 	github.com/hbstack/bigger-picture v0.9.2 // indirect
 	github.com/hbstack/blog v0.15.3 // indirect
-	github.com/hbstack/blog/modules/breadcrumb v0.1.9 // indirect
+	github.com/hbstack/blog/modules/breadcrumb v0.1.10 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.8 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.10 // indirect
@@ -35,7 +35,7 @@ require (
 	github.com/hbstack/gallery v0.5.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.5.2 // indirect
-	github.com/hbstack/header v0.4.3 // indirect
+	github.com/hbstack/header v0.4.4 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.5 // indirect
 	github.com/hbstack/header/modules/search v0.1.13 // indirect
 	github.com/hbstack/header/modules/socials v0.1.6 // indirect
