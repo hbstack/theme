@@ -14,7 +14,7 @@ require (
 	github.com/hbstack/blog/modules/giscus v0.1.11 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.11 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.8 // indirect
-	github.com/hbstack/blog/modules/related-posts v0.1.9 // indirect
+	github.com/hbstack/blog/modules/related-posts v0.1.10 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.3.0 // indirect
 	github.com/hbstack/blog/modules/sidebar/taxonomies v0.3.0 // indirect
 	github.com/hbstack/blog/modules/toc-scrollspy v0.1.7 // indirect
