@@ -100,6 +100,7 @@ github.com/hbstack/header/modules/search v0.1.13/go.mod h1:6HqHCnhXOAoOYo/SMB594
 github.com/hbstack/header/modules/search v0.1.14/go.mod h1:lwfnI8bHhzwAahF8THQC8l8C2b0AT7pMMFHC4miXO8c=
 github.com/hbstack/header/modules/search v0.1.15/go.mod h1:pEov0jTv7m/sIuPskdyKlFW3J20XW7Aaua7xImBitzU=
 github.com/hbstack/header/modules/search v0.1.16/go.mod h1:ZPJGMESIC0ZsDW3+YH3wrHLKLkqFQWZeBwtID9w9Hpg=
+github.com/hbstack/header/modules/search v0.1.17/go.mod h1:0yrYgQhscH8yYR4E2lc7rdEQUfVwAceHLIEvdUvxg0U=
 github.com/hbstack/header/modules/socials v0.1.4 h1:zIRJQhMLlVtz++6vz64EmwST2v8/5DJ2Th99C3QjELw=
 github.com/hbstack/header/modules/socials v0.1.4/go.mod h1:n8izOgBpgMRHdaDOoibjM7DVkVwYfxpU6LL76w08cmI=
 github.com/hbstack/header/modules/socials v0.1.6/go.mod h1:rkoeIpiyvTrmF/qgfhug/SRIVh3I3b9Cp4sqHB7Itrg=
