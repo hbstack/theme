@@ -118,6 +118,7 @@ github.com/hbstack/header/modules/socials v0.1.9/go.mod h1:cAHNlHbOsyiPGhx6pWVwW
 github.com/hbstack/header/modules/socials v0.1.10/go.mod h1:XfR7YdC0xWLONW3JB6AKJlFneu0ACUVXGsyxnKABgKU=
 github.com/hbstack/header/modules/socials v0.1.12/go.mod h1:ZsIpTMIbzZXgxTJcDFET1G1DRzIMfNet1FBDLKOPB78=
 github.com/hbstack/header/modules/socials v0.1.13/go.mod h1:UHFg7sI/P29YYj1lv0z9iIHH+VbVT0HoF1YE5d8LEcs=
+github.com/hbstack/header/modules/socials v0.1.14/go.mod h1:R8NOw+0rVLa5K7bncxFhzjUdxc5RYn5YZjjOrV89L18=
 github.com/hbstack/header/modules/theme-toggle v0.1.3 h1:CHTgjbYGsV3qcv2DF/FJvMIt7N4fqE2BGfSJm8+CGBg=
 github.com/hbstack/header/modules/theme-toggle v0.1.3/go.mod h1:wYgpqk7Wi80HsNTOn79GZjMbuG0Z03/+lf5sUzxB+tU=
 github.com/hbstack/header/modules/theme-toggle v0.1.5/go.mod h1:k/cuCnNlBf+O/41QkAXLqj8EM1i+EmKzLZzamV9e45g=
