@@ -34,10 +34,10 @@ require (
 	github.com/hbstack/footer/modules/socials v0.2.1 // indirect
 	github.com/hbstack/gallery v0.5.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
-	github.com/hbstack/hb v0.6.0 // indirect
-	github.com/hbstack/header v0.7.1 // indirect
+	github.com/hbstack/hb v0.7.0 // indirect
+	github.com/hbstack/header v0.8.0 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.10 // indirect
-	github.com/hbstack/header/modules/search v0.1.18 // indirect
+	github.com/hbstack/header/modules/search v0.1.19 // indirect
 	github.com/hbstack/header/modules/socials v0.1.13 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.10 // indirect
 	github.com/hbstack/mermaid v0.1.0 // indirect
