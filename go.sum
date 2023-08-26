@@ -69,6 +69,7 @@ github.com/hbstack/docs/modules/content-panel v0.1.2/go.mod h1:ytvtc/Ml6Jnp9GI9l
 github.com/hbstack/docs/modules/doc-nav v0.2.2 h1:UVzbp/uOjf+XMgbRMxoJIInrGZtDrEjeNgc8SbO1Arc=
 github.com/hbstack/docs/modules/doc-nav v0.2.2/go.mod h1:wyIyDH4lRVOpxOL/U8vwpsvCuUqJhFE4GZ5Ic31KyU0=
 github.com/hbstack/docs/modules/doc-nav v0.2.3/go.mod h1:OiY6i4qm8WclDsvYnEsKD+vwMGTVV1XT4njjG0McYfU=
+github.com/hbstack/docs/modules/doc-nav v0.2.4/go.mod h1:JFSXt7n4tgwNYLrE7afBfFWqIFg8vJ+Ynrno964uHas=
 github.com/hbstack/docs/modules/featured-image v0.2.2 h1:ES1XoN6MdJtzFyPFCJo9AoUDNNcWGYJpCEDeVtPDeL8=
 github.com/hbstack/docs/modules/featured-image v0.2.2/go.mod h1:npR6D4Bbu2RiVDGkJFQC6qpM30vSqIIbGXxP+/ueEIo=
 github.com/hbstack/docs/modules/giscus v0.1.4 h1:gyCyb4ispdUnoF6EJbNghD82/jf9BCS7aR8b6oZPTZY=
