@@ -26,9 +26,9 @@ require (
 	github.com/hbstack/docs/modules/breadcrumb v0.1.5 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.2 // indirect
 	github.com/hbstack/docs/modules/doc-nav v0.2.4 // indirect
-	github.com/hbstack/docs/modules/featured-image v0.2.2 // indirect
+	github.com/hbstack/docs/modules/featured-image v0.2.4 // indirect
 	github.com/hbstack/docs/modules/giscus v0.1.6 // indirect
-	github.com/hbstack/docs/modules/heading-sign v0.1.3 // indirect
+	github.com/hbstack/docs/modules/heading-sign v0.1.5 // indirect
 	github.com/hbstack/docs/modules/toc-scrollspy v0.1.3 // indirect
 	github.com/hbstack/footer v0.2.2 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.1 // indirect
@@ -43,7 +43,7 @@ require (
 	github.com/hbstack/mermaid v0.1.0 // indirect
 	github.com/hbstack/meta/blog v0.2.6 // indirect
 	github.com/hbstack/meta/content v0.4.5 // indirect
-	github.com/hbstack/meta/docs v0.2.7 // indirect
+	github.com/hbstack/meta/docs v0.2.8 // indirect
 	github.com/hbstack/meta/footer v0.2.4 // indirect
 	github.com/hbstack/meta/header v0.2.4 // indirect
 	github.com/hbstack/meta/recommended v0.2.3 // indirect
