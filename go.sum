@@ -105,6 +105,7 @@ github.com/hbstack/hb v0.5.1/go.mod h1:qlNnPNO1MRsrxxDvFMz98DMFafaBgvtAfBYiteR3i
 github.com/hbstack/hb v0.5.2/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
 github.com/hbstack/hb v0.6.0/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
 github.com/hbstack/hb v0.7.0/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
+github.com/hbstack/hb v0.7.1/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
 github.com/hbstack/header v0.4.2 h1:bK4wQOq8Q9JUMd8R4jgZMLY+2lkLoygc96TH+Lmt+y0=
 github.com/hbstack/header v0.4.2/go.mod h1:zw0yPq+tdR9djAdPG9tgNN3MV1IT5m0n6Z9AgG+n2WY=
 github.com/hbstack/header v0.4.3/go.mod h1:zw0yPq+tdR9djAdPG9tgNN3MV1IT5m0n6Z9AgG+n2WY=
@@ -115,6 +116,7 @@ github.com/hbstack/header v0.7.0/go.mod h1:BMdysr68KL0Qmo0mufE2AepsO5YXSbBkjmIrw
 github.com/hbstack/header v0.7.1/go.mod h1:BMdysr68KL0Qmo0mufE2AepsO5YXSbBkjmIrwydhpng=
 github.com/hbstack/header v0.8.0/go.mod h1:ZnACw6m73xB7Z5TUTyjErh6yURnMDDSWj8BVVrR9/+M=
 github.com/hbstack/header v0.8.1/go.mod h1:ZnACw6m73xB7Z5TUTyjErh6yURnMDDSWj8BVVrR9/+M=
+github.com/hbstack/header v0.8.2/go.mod h1:ihpMPmzro0155ZHtd3t95C1R5NN61JUZ/0Hng3GpiGo=
 github.com/hbstack/header/modules/language-picker v0.1.3 h1:VhmnpjhgpBgFIEgdzv+MCw36JUL5EiPuva1yk62XmIY=
 github.com/hbstack/header/modules/language-picker v0.1.3/go.mod h1:nR1OD8B9ifA45MvKbdn3Eo/BMbUhsoOYO5A3lz3ufI0=
 github.com/hbstack/header/modules/language-picker v0.1.5/go.mod h1:66uz/5PHLTD8+74gzCPStumMlk98gvpnaBg5pJ6SoHA=
