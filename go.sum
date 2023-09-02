@@ -20,6 +20,7 @@ github.com/hbstack/blog/modules/content-panel v0.1.8 h1:00MUX6+sQzZ/8P2Wzb9SM0wG
 github.com/hbstack/blog/modules/content-panel v0.1.8/go.mod h1:USYeK1r0AuC+qeLdO9dJKF4J30VUn8FezAJRp2oWI00=
 github.com/hbstack/blog/modules/content-panel v0.1.9/go.mod h1:a+4eKXG0Z0zE78GoKacTalo+J6POXCzrrPk7TT1ukPU=
 github.com/hbstack/blog/modules/content-panel v0.1.10/go.mod h1:uknMpSxqTEAHEiZR+xIYtRnJVxV7q6HW+qxN9XJyCLk=
+github.com/hbstack/blog/modules/content-panel v0.1.11/go.mod h1:iXM7I30AEl80RDGJKtCuroEx/6DSgIchyuqkClbC5yU=
 github.com/hbstack/blog/modules/featured-image v0.2.8 h1:KdFBhk29SNRqY75cUaGppHaBNwqkbhdgy8Q/klNytBQ=
 github.com/hbstack/blog/modules/featured-image v0.2.8/go.mod h1:hF90CiZRG57ntx0dkJIbO3XBgvaqZFmTmSnWqIEJqg4=
 github.com/hbstack/blog/modules/featured-image v0.2.9/go.mod h1:wL9vQqZlUfhPFKvHaSjsGQTFaMAkYRkPrmdtrZwI8mE=
