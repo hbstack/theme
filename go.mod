@@ -11,7 +11,7 @@ require (
 	github.com/hbstack/blog/modules/breadcrumb v0.1.11 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.11 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.10 // indirect
-	github.com/hbstack/blog/modules/giscus v0.1.12 // indirect
+	github.com/hbstack/blog/modules/giscus v0.1.13 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.12 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.9 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.11 // indirect
