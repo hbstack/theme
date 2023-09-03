@@ -8,11 +8,11 @@ require (
 	github.com/hbstack/base v0.2.1 // indirect
 	github.com/hbstack/bigger-picture v0.9.2 // indirect
 	github.com/hbstack/blog v0.15.7 // indirect
-	github.com/hbstack/blog/modules/breadcrumb v0.1.11 // indirect
+	github.com/hbstack/blog/modules/breadcrumb v0.1.12 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.11 // indirect
-	github.com/hbstack/blog/modules/featured-image v0.2.10 // indirect
+	github.com/hbstack/blog/modules/featured-image v0.2.11 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.13 // indirect
-	github.com/hbstack/blog/modules/heading-sign v0.1.12 // indirect
+	github.com/hbstack/blog/modules/heading-sign v0.1.13 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.10 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.12 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.3.3 // indirect
@@ -41,7 +41,7 @@ require (
 	github.com/hbstack/header/modules/socials v0.1.18 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.14 // indirect
 	github.com/hbstack/mermaid v0.1.0 // indirect
-	github.com/hbstack/meta/blog v0.2.7 // indirect
+	github.com/hbstack/meta/blog v0.2.8 // indirect
 	github.com/hbstack/meta/content v0.4.6 // indirect
 	github.com/hbstack/meta/docs v0.2.9 // indirect
 	github.com/hbstack/meta/footer v0.2.6 // indirect
