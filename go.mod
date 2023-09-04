@@ -44,7 +44,7 @@ require (
 	github.com/hbstack/meta/blog v0.2.9 // indirect
 	github.com/hbstack/meta/content v0.4.8 // indirect
 	github.com/hbstack/meta/docs v0.2.10 // indirect
-	github.com/hbstack/meta/footer v0.2.6 // indirect
+	github.com/hbstack/meta/footer v0.2.7 // indirect
 	github.com/hbstack/meta/header v0.2.8 // indirect
 	github.com/hbstack/meta/recommended v0.2.7 // indirect
 	github.com/hbstack/meta/seo v0.2.0 // indirect
