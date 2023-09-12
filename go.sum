@@ -117,6 +117,7 @@ github.com/hbstack/footer v0.2.1 h1:GZbSRcGNMeKAiDLeai0cPaEnztkDBraTNQqe2uap944=
 github.com/hbstack/footer v0.2.1/go.mod h1:ldb4b95D/7NVWQWFTIngasypCA+QQQRj1I+1BEyOi/c=
 github.com/hbstack/footer v0.2.2/go.mod h1:ap949YxPpXEhcYPoZt2RTCS3tfeEMwsdRIqSvCrM2No=
 github.com/hbstack/footer v0.2.3/go.mod h1:83AHk2CsJmFjLu6Tz1z/indPsWFU3WGVb3EI/IX2g1k=
+github.com/hbstack/footer v0.2.4/go.mod h1:L0ZYdYRROlGUGLRA9QchkYeByHIff/EU4WKRdAUW+E8=
 github.com/hbstack/footer/modules/socials v0.2.0 h1:XuwETIZWBUGpt6z84lL/BWDF2VtswNto4K6f1/iCFwk=
 github.com/hbstack/footer/modules/socials v0.2.0/go.mod h1:v3fTaaKwjSjyX+XwpaK6Mey3pYLWTxhHXlvs2C3wztQ=
 github.com/hbstack/footer/modules/socials v0.2.1/go.mod h1:7UoIgqN0ADAwxt3p/VAMeBdcFZeiuQtOLMGMB2g6Q14=
