@@ -124,6 +124,7 @@ github.com/hbstack/footer/modules/socials v0.2.0/go.mod h1:v3fTaaKwjSjyX+XwpaK6M
 github.com/hbstack/footer/modules/socials v0.2.1/go.mod h1:7UoIgqN0ADAwxt3p/VAMeBdcFZeiuQtOLMGMB2g6Q14=
 github.com/hbstack/footer/modules/socials v0.2.2/go.mod h1:sDb2P7iE/bVOwsPBICE0g7PSt8jzHvpTMSq5yzy4Odw=
 github.com/hbstack/footer/modules/socials v0.2.3/go.mod h1:9sMLvKEtYVfP4w2xQDUQcqcO4Ws04fgu9cDQzZygyMc=
+github.com/hbstack/footer/modules/socials v0.2.4/go.mod h1:pdjL1xFGtz9Tob7b8LtOtKWvY+krtH2zv0xF6v8JS1E=
 github.com/hbstack/gallery v0.5.0 h1:pU/JOG3lTUz0KYM/AGyLSigeIIAZrtzGHdR6DVn9Mvo=
 github.com/hbstack/gallery v0.5.0/go.mod h1:QbWQt6m6D0gnOm1LyvaZQzXU2EVsZgnh+y8z6nMsL/k=
 github.com/hbstack/gallery/modules/breadcrumb v0.1.0 h1:zenzwq4EiE2PIB2gx8QU4I2Zx9KAK901EWpgLGu5XqA=
