@@ -62,7 +62,7 @@ require (
 	github.com/hugomods/giscus v0.1.1 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.1 // indirect
-	github.com/hugomods/katex v0.2.0 // indirect
+	github.com/hugomods/katex v0.3.0 // indirect
 	github.com/hugomods/mermaid v0.1.1 // indirect
 	github.com/hugomods/pwa v0.3.2 // indirect
 	github.com/hugomods/search v0.4.5 // indirect
