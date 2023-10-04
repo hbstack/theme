@@ -214,6 +214,7 @@ github.com/hbstack/header/modules/theme-toggle v0.1.14/go.mod h1:7W99Yalps+pF9Hv
 github.com/hbstack/header/modules/theme-toggle v0.1.15/go.mod h1:AnZ6WvVqTfFJedWC86/mUPq57nxpy6AhrJ19Vy6SRvc=
 github.com/hbstack/header/modules/theme-toggle v0.1.16/go.mod h1:ikTS/T02uyyOQa9U9PVq0oF1idbjQm+ieCMM8bNUQ4k=
 github.com/hbstack/header/modules/theme-toggle v0.1.17/go.mod h1:Wv12j/hd0VYgif8ecd/l2JXXQpynOu+AUSvSBiFtKVU=
+github.com/hbstack/header/modules/theme-toggle v0.1.18/go.mod h1:QFRunk14ktM/oYuYxlKOnJvw0ZPFTiPnSSbWwSYLLc4=
 github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I=
 github.com/hbstack/mermaid v0.1.0/go.mod h1:dQAfzX1SA4b3k5ytA8WPR5luxjX4ii7EdtoRsr8WLNw=
 github.com/hbstack/meta/blog v0.2.5 h1:nVAALzFrEhVcCCi9T0AEYFX5RvYk12t3J8npzcAYKog=
