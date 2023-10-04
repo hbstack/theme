@@ -18,6 +18,7 @@ github.com/hbstack/blog/modules/breadcrumb v0.1.9/go.mod h1:Fk0VcnTs3EOhQHkGgZuw
 github.com/hbstack/blog/modules/breadcrumb v0.1.10/go.mod h1:tgG3n8+4Ap71K+tW9dyE4EN5/ZjmXh4jnjRMxUwg1yQ=
 github.com/hbstack/blog/modules/breadcrumb v0.1.11/go.mod h1:m88W4yLWqn29Oc8iIArCE5LXAC2ZefZvw2nQ+YKlT9w=
 github.com/hbstack/blog/modules/breadcrumb v0.1.12/go.mod h1:oaM9EWWpD0SOJBD0AO09JUTPdfJ26HHHPrRNboycGok=
+github.com/hbstack/blog/modules/breadcrumb v0.1.13/go.mod h1:d1fkB4UEG9ncXkAUKYDDz3Foib+v4q5wW5sroIpXmQc=
 github.com/hbstack/blog/modules/content-panel v0.1.8 h1:00MUX6+sQzZ/8P2Wzb9SM0wGp2v/C0cMroZ/XncMwoc=
 github.com/hbstack/blog/modules/content-panel v0.1.8/go.mod h1:USYeK1r0AuC+qeLdO9dJKF4J30VUn8FezAJRp2oWI00=
 github.com/hbstack/blog/modules/content-panel v0.1.9/go.mod h1:a+4eKXG0Z0zE78GoKacTalo+J6POXCzrrPk7TT1ukPU=
@@ -29,6 +30,7 @@ github.com/hbstack/blog/modules/featured-image v0.2.8/go.mod h1:hF90CiZRG57ntx0d
 github.com/hbstack/blog/modules/featured-image v0.2.9/go.mod h1:wL9vQqZlUfhPFKvHaSjsGQTFaMAkYRkPrmdtrZwI8mE=
 github.com/hbstack/blog/modules/featured-image v0.2.10/go.mod h1:i9GtUQV9PJuULiHg0k/E3AiC8nEYdPEkXZahoXD7wwc=
 github.com/hbstack/blog/modules/featured-image v0.2.11/go.mod h1:RkMGNqp6WnzGfA/2V6R89AVEjsYcaq0FlF8KhsbbQ+0=
+github.com/hbstack/blog/modules/featured-image v0.2.12/go.mod h1:3g1A/4TgrLaT8cZX1lsdgGRrjN+IQHy2Mt1ig3+NEKA=
 github.com/hbstack/blog/modules/giscus v0.1.10 h1:eCaAaP9WNe48HFNwPoClG0eNOJlIKdZLsf6TQWw4lU0=
 github.com/hbstack/blog/modules/giscus v0.1.10/go.mod h1:1x/XzqIQE2NhNmR3ZUFcJBIusqwjR3RMau8C6VJo1+E=
 github.com/hbstack/blog/modules/giscus v0.1.11/go.mod h1:P9Ujw7WlGkYudDfARbsF/1Mapnzz4pj/ZdlES2gxqoQ=
@@ -40,6 +42,7 @@ github.com/hbstack/blog/modules/heading-sign v0.1.10/go.mod h1:WPRFzXASGj3H0/a0E
 github.com/hbstack/blog/modules/heading-sign v0.1.11/go.mod h1:sGlRPgNKwL6kafIlT/xAZtKBViuyiB7Tfx6Sn/JoZec=
 github.com/hbstack/blog/modules/heading-sign v0.1.12/go.mod h1:NiRha6ek9POlc6ZxbcP5hxPDva9XCcDAE0SLZ89P7tc=
 github.com/hbstack/blog/modules/heading-sign v0.1.13/go.mod h1:R21UOgyJMpmvIZA1/VNPRZka5Fl9e5v1NoFdtt5Kamg=
+github.com/hbstack/blog/modules/heading-sign v0.1.14/go.mod h1:Q4lbhSy1BZ9zjCzDECtyx7Sna1QxiREpQttHiIfbVkI=
 github.com/hbstack/blog/modules/post-nav v0.2.7 h1:engSv6oELxBUSqTTM0F5ck2AgqEQrBMTRP4QDQAozs4=
 github.com/hbstack/blog/modules/post-nav v0.2.7/go.mod h1:xmtft09u1LjIX1ADvfhuOkK1s31f91Te/7KTO35GF6E=
 github.com/hbstack/blog/modules/post-nav v0.2.8/go.mod h1:gHCQOi7E81fgfChgEBeEh23Ig4kvLUgDuh0O3l4ZL6g=
@@ -222,6 +225,7 @@ github.com/hbstack/meta/blog v0.2.6/go.mod h1:Eq9e0utRHaG/PPhxXNi42zU4N449Fyzgcj
 github.com/hbstack/meta/blog v0.2.7/go.mod h1:g/6J2T9j8KJh6F1V6+Ae+57DOeShiWx8V52ij/4sSuI=
 github.com/hbstack/meta/blog v0.2.8/go.mod h1:Vjqq2a0epwwZbN24KwDaMMgOpy+cNf4XRkS4h0s9/vQ=
 github.com/hbstack/meta/blog v0.2.9/go.mod h1:pT2YaBIDi2MmJAmLrTdVKN2qaL2B3ftKtyYewo0d5Nc=
+github.com/hbstack/meta/blog v0.2.10/go.mod h1:zc7OLaPCEdE6NhK5ZNoTL0+Ssz/cNu0GR6VnTgustN8=
 github.com/hbstack/meta/content v0.4.4 h1:hNDng3htcTf3j9H3gX5eKImg/FGp0S7dg6MFxsdVoNA=
 github.com/hbstack/meta/content v0.4.4/go.mod h1:3bpUZ62pwPNjklm3Z0BKOyATbB5tEy1ZVVMQJG96MO4=
 github.com/hbstack/meta/content v0.4.5/go.mod h1:NAsgOSUZNdNkP2wyA52TKPNmQAh4NSyK12kFOMG7NBQ=
