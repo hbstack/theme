@@ -35,8 +35,8 @@ require (
 	github.com/hbstack/gallery v0.5.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.7.1 // indirect
-	github.com/hbstack/header v0.10.1 // indirect
-	github.com/hbstack/header/modules/language-picker v0.1.17 // indirect
+	github.com/hbstack/header v0.11.0 // indirect
+	github.com/hbstack/header/modules/language-picker v0.1.18 // indirect
 	github.com/hbstack/header/modules/search v0.1.27 // indirect
 	github.com/hbstack/header/modules/socials v0.1.23 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.17 // indirect
