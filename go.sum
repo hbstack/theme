@@ -269,6 +269,7 @@ github.com/hbstack/meta/standard v0.2.7/go.mod h1:PVkKQuiDG34Ik4RHzN3in8v8RlqnDA
 github.com/hbstack/meta/standard v0.2.8/go.mod h1:ieCd7X0pc/OjHzBL/qrWdRx0e0nYvZcOP3GtA04rzuE=
 github.com/hbstack/meta/standard v0.2.9/go.mod h1:TcTWwOxR/ioT0Ik18RXVodRovkuSPWbMDTZjtx9i+Jo=
 github.com/hbstack/meta/standard v0.2.10/go.mod h1:kUPA4W4UohHT6VeVFmXxIxPc7ALrKc3mhhPhUQ1siGw=
+github.com/hbstack/meta/standard v0.2.11/go.mod h1:Ue4h9LPE+mLUW1Fg7P/JMsMGkCz/OChWY64utHmTjGs=
 github.com/hbstack/noscript v0.2.0 h1:yAWYGD1stUicaKATrA9BnhQNjRZWgiFgP8Y7C44AqG0=
 github.com/hbstack/noscript v0.2.0/go.mod h1:Lxh6eXJijehQw92g4g+2+fVEQgVqRJXi5xGri/y+Eyo=
 github.com/hbstack/progress-bar v0.1.0 h1:2ZiGS3RFZbZYBUbT2nFCoU9SJsbD9jtV4A7ab41B4jg=
