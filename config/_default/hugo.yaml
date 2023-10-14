@@ -33,6 +33,7 @@ module:
     # - path: github.com/hugomods/icons/vendors/feather
 
     # blog sidebar
+    - path: github.com/hbstack/blog/modules/sidebar/profile
     - path: github.com/hbstack/blog/modules/sidebar/posts
     - path: github.com/hbstack/blog/modules/sidebar/taxonomies
 

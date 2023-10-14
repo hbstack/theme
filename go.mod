@@ -16,6 +16,7 @@ require (
 	github.com/hbstack/blog/modules/post-nav v0.2.14 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.16 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.4.1 // indirect
+	github.com/hbstack/blog/modules/sidebar/profile v1.0.1 // indirect
 	github.com/hbstack/blog/modules/sidebar/taxonomies v0.3.7 // indirect
 	github.com/hbstack/blog/modules/toc-scrollspy v0.1.14 // indirect
 	github.com/hbstack/bootstrap v0.2.0 // indirect
