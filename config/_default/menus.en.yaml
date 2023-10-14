@@ -20,12 +20,6 @@ main:
         className: text-primary
       description: The documentations.
 
-  - identifier: support-divider
-    parent: support
-    weight: 10
-    params:
-      divider: true
-
   - name: GitHub
     parent: support
     url: https://github.com/hbstack
@@ -68,3 +62,13 @@ main:
         name: lightbulb
         color: orange
       description: Suggest new or updated features.
+  
+  - name: Mastodon
+    parent: support
+    url: https://techhub.social/@hbstack
+    weight: 16
+    params:
+      icon:
+        vendor: simple
+        name: mastodon
+      description: Follow us on Mastodon to get latest updates.
