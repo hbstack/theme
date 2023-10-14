@@ -10,12 +10,16 @@ hb:
     socials:
       github: hbstack
       twitter: razonyang
+      rss: true
+      mastodon: https://techhub.social/@hbstack
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
       github: hbstack
       twitter: razonyang
+      rss: true
+      mastodon: https://techhub.social/@hbstack
   blog:
     full_width: false # when true, the blog layout takes full width.
     sidebar:
