@@ -9,7 +9,7 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: hbstack
-      twitter: razonyang
+      # twitter: razonyang
       rss: true
       mastodon: https://techhub.social/@hbstack
   footer:
