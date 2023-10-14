@@ -1,0 +1,57 @@
+# For some regions can not access the proxy.golang.org, i.e. China.
+# See https://hugomods.com/en/blog/2023/04/go-and-hugo-proxy-servers/ for all available proxy servers.
+# proxy: https://goproxy.cn,direct
+
+# The order of module is very important, precedence from top to bottom.
+imports:
+  # gallery modules.
+  - path: github.com/hbstack/gallery
+  - path: github.com/hbstack/gallery/modules/breadcrumb
+
+  # syntax highlighting, see https://hbstack.dev/en/docs/modules/syntax-highlighting/.
+  # - path: github.com/hbstack/syntax-highlighting/styles/github-dark
+
+  # icons modules
+  - path: github.com/hugomods/icons/vendors/font-awesome
+  # - path: github.com/hugomods/icons/vendors/mdi
+  # - path: github.com/hugomods/icons/vendors/simple-icons
+  # - path: github.com/hugomods/icons/vendors/tabler
+  # - path: github.com/hugomods/icons/vendors/feather
+
+  # blog sidebar
+  - path: github.com/hbstack/blog/modules/sidebar/profile
+  - path: github.com/hbstack/blog/modules/sidebar/posts
+  - path: github.com/hbstack/blog/modules/sidebar/taxonomies
+
+  # blog comments engine
+  - path: github.com/hbstack/blog/modules/giscus
+  # - path: github.com/hbstack/blog/modules/disqus
+  # - path: github.com/hbstack/blog/modules/utterances
+
+  # blog table of contents scrollspy
+  - path: github.com/hbstack/blog/modules/toc-scrollspy
+
+  # blog content panel
+  - path: github.com/hbstack/blog/modules/content-panel
+
+  # docs comments engine
+  - path: github.com/hbstack/docs/modules/giscus
+  # - path: github.com/hbstack/docs/modules/utterances
+  # - path: github.com/hbstack/docs/modules/disqus
+
+  # docs table of contents scrollspy
+  - path: github.com/hbstack/docs/modules/toc-scrollspy
+
+  # docs content panel
+  - path: github.com/hbstack/docs/modules/content-panel
+
+  # other modules
+  # - path: github.com/hugomods/google-analytics
+  # - path: github.com/hugomods/google-adsense
+
+  # recommended modules
+  # check which modules were imported by recommended module by "hugo mod graph | grep recommended".
+  # see also https://hbstack.dev/en/docs/modules/meta/.
+  # to remove unused modules, you need to replace the recommended module with modules your need.
+  # see also https://hbstack.dev/en/2023/10/replace-meta-modules/.
+  - path: github.com/hbstack/meta/recommended
