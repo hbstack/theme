@@ -17,7 +17,7 @@ require (
 	github.com/hbstack/blog/modules/related-posts v0.1.17 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.4.2 // indirect
 	github.com/hbstack/blog/modules/sidebar/profile v1.0.2 // indirect
-	github.com/hbstack/blog/modules/sidebar/taxonomies v0.3.7 // indirect
+	github.com/hbstack/blog/modules/sidebar/taxonomies v0.3.8 // indirect
 	github.com/hbstack/blog/modules/toc-scrollspy v0.1.14 // indirect
 	github.com/hbstack/bootstrap v0.2.0 // indirect
 	github.com/hbstack/carousel v0.2.3 // indirect
