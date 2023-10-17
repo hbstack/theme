@@ -320,6 +320,7 @@ github.com/hbstack/meta/blog v0.2.8/go.mod h1:Vjqq2a0epwwZbN24KwDaMMgOpy+cNf4XRk
 github.com/hbstack/meta/blog v0.2.9/go.mod h1:pT2YaBIDi2MmJAmLrTdVKN2qaL2B3ftKtyYewo0d5Nc=
 github.com/hbstack/meta/blog v0.2.10 h1:WU29mGXRk3xF0yoTBXXMlmdHZSiwfpGD1jOLZP1W104=
 github.com/hbstack/meta/blog v0.2.10/go.mod h1:zc7OLaPCEdE6NhK5ZNoTL0+Ssz/cNu0GR6VnTgustN8=
+github.com/hbstack/meta/blog v0.2.11/go.mod h1:GY06IFyO0MTRwILILwBVp55f3UWJHZvsEFQIwKra098=
 github.com/hbstack/meta/content v0.4.4 h1:hNDng3htcTf3j9H3gX5eKImg/FGp0S7dg6MFxsdVoNA=
 github.com/hbstack/meta/content v0.4.4/go.mod h1:3bpUZ62pwPNjklm3Z0BKOyATbB5tEy1ZVVMQJG96MO4=
 github.com/hbstack/meta/content v0.4.5/go.mod h1:NAsgOSUZNdNkP2wyA52TKPNmQAh4NSyK12kFOMG7NBQ=
