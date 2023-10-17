@@ -345,6 +345,7 @@ github.com/hbstack/meta/footer v0.2.6/go.mod h1:qM8t0sV+hXrWU7BZmY1Ly4JJfx9VoACl
 github.com/hbstack/meta/footer v0.2.7/go.mod h1:TSxi6UV5NTYtiQmMBTFPzJuwAIooFCj01TJaNbCcboo=
 github.com/hbstack/meta/footer v0.2.8 h1:oECKpdajwS7oul0VaRH+MqbTzw6mtVOO1EYfjbTMC48=
 github.com/hbstack/meta/footer v0.2.8/go.mod h1:swmmWFoWbkMNlMrtHQICiuoiWiF10fGm1YbK5CJnL/Y=
+github.com/hbstack/meta/footer v0.2.9/go.mod h1:mVwl+cGKRA63ofeYtrD6bXUKkR9S4aJZjYsxLe+8c3g=
 github.com/hbstack/meta/header v0.2.4 h1:XKvyQtOoY8oUN9pn5XJqj68ZSKua41epsAvl0lYft+A=
 github.com/hbstack/meta/header v0.2.4/go.mod h1:oe5fpdTpm7rGTcKII3L4pYus30UPkeEpP4H5E7ZGIXk=
 github.com/hbstack/meta/header v0.2.6/go.mod h1:pvUfAQK3HuTbcGKvxycWidOT8RUHKItoK7jn9+gsMaU=
