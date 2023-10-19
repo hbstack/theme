@@ -66,6 +66,7 @@ github.com/hbstack/blog/modules/giscus v0.1.17 h1:3NimjlmZ2kFpw7fNcPtmeL8jqTkeuV
 github.com/hbstack/blog/modules/giscus v0.1.17/go.mod h1:xY7UBKskg2etEzxyR8auCn93A8ish5OTxOtGIxrzCUw=
 github.com/hbstack/blog/modules/giscus v0.1.18/go.mod h1:d4RWuHkMr7/xGeo+V3aheE/kAOVjcUF/PJTh2cMZQUI=
 github.com/hbstack/blog/modules/giscus v0.1.20/go.mod h1:wFSsz//dY4vg8U+w+Z2naQTZveiL9nXA/Ez05FXVx/A=
+github.com/hbstack/blog/modules/giscus v0.1.21/go.mod h1:J84B9Mx0OvhtHVcj/Vanaj2HUvqS9n+plAvI5I4iRy4=
 github.com/hbstack/blog/modules/heading-sign v0.1.10 h1:JgSy7JaWvOHB9Yqpn3/WwTn9FFYUw5ImAqNxXidsP9g=
 github.com/hbstack/blog/modules/heading-sign v0.1.10/go.mod h1:WPRFzXASGj3H0/a0EtuvHyns8YzuQp1iqc7ymRib01Q=
 github.com/hbstack/blog/modules/heading-sign v0.1.11/go.mod h1:sGlRPgNKwL6kafIlT/xAZtKBViuyiB7Tfx6Sn/JoZec=
