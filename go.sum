@@ -83,6 +83,7 @@ github.com/hbstack/blog/modules/heading-sign v0.1.17 h1:OHWkooDomjqkVRkgwMgj64Y/
 github.com/hbstack/blog/modules/heading-sign v0.1.17/go.mod h1:O7fC6ln+vfQ+xpTP+jjH3axqN8HkP/NFyT0xCTBTF+8=
 github.com/hbstack/blog/modules/heading-sign v0.1.18/go.mod h1:8VvVQC5HXt4eDJg/KsAu+H6kAEV21xthXcn98NSDKpM=
 github.com/hbstack/blog/modules/heading-sign v0.1.20/go.mod h1:P2daipU5Zl95PqHpFzAPq6/2hoG7V4GlaDtpHBBmtWU=
+github.com/hbstack/blog/modules/heading-sign v0.1.21/go.mod h1:iOmZZFbVPejTWKSSS49hUpdXEAsK+VdM94pcQkvLlGk=
 github.com/hbstack/blog/modules/post-nav v0.2.7 h1:engSv6oELxBUSqTTM0F5ck2AgqEQrBMTRP4QDQAozs4=
 github.com/hbstack/blog/modules/post-nav v0.2.7/go.mod h1:xmtft09u1LjIX1ADvfhuOkK1s31f91Te/7KTO35GF6E=
 github.com/hbstack/blog/modules/post-nav v0.2.8/go.mod h1:gHCQOi7E81fgfChgEBeEh23Ig4kvLUgDuh0O3l4ZL6g=
