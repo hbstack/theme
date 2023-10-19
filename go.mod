@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/blog v0.18.1 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.20 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.19 // indirect
-	github.com/hbstack/blog/modules/featured-image v0.2.18 // indirect
+	github.com/hbstack/blog/modules/featured-image v0.2.19 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.21 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.20 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.3.1 // indirect
