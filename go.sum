@@ -129,6 +129,7 @@ github.com/hbstack/blog/modules/sidebar/posts v0.4.1/go.mod h1:M8CMgswKKdXCSj8T3
 github.com/hbstack/blog/modules/sidebar/posts v0.4.2/go.mod h1:AAx+h1z2S0a2+ujP0IFAwIizRxTPEt3M5EFSGVVgDlA=
 github.com/hbstack/blog/modules/sidebar/posts v0.5.1/go.mod h1:91ajNkYdnXm0R7e+HoRnrMd4NY+4tWrMHw8CJPphtac=
 github.com/hbstack/blog/modules/sidebar/posts v0.5.2/go.mod h1:eZcNDN2qxsCc8/dPl9rJq9yTVz/sFUakjPoWiNIXxy4=
+github.com/hbstack/blog/modules/sidebar/posts v0.5.3/go.mod h1:74Q5GqPX7585+9WbgvedFXX2gG8A44trOr7rroOxLGc=
 github.com/hbstack/blog/modules/sidebar/profile v1.0.1 h1:HPzJVJfnuaZMezQPLcp6iHP/0IaKkR+S40pj9gjeEH0=
 github.com/hbstack/blog/modules/sidebar/profile v1.0.1/go.mod h1:nKn0ajlOhVzRfL4gRlAnEtOVtF99abtVpV2OdDc8u8o=
 github.com/hbstack/blog/modules/sidebar/profile v1.0.2/go.mod h1:nKn0ajlOhVzRfL4gRlAnEtOVtF99abtVpV2OdDc8u8o=
