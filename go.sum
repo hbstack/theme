@@ -223,6 +223,7 @@ github.com/hbstack/docs/modules/toc-scrollspy v0.1.2/go.mod h1:nfuMmZL9VP4uRjrG9
 github.com/hbstack/docs/modules/toc-scrollspy v0.1.3/go.mod h1:bcHhZKtbwpYhkFKaeSCqwEFv95uQde3m+kq9OkUNQqU=
 github.com/hbstack/docs/modules/toc-scrollspy v0.1.4 h1:rorlYljbsRsdqKlwODre3t6n8VL8B5B8u0EtVXq1naY=
 github.com/hbstack/docs/modules/toc-scrollspy v0.1.4/go.mod h1:Ed/fo05NbSSs+HN7nYiJXGWf9KGbeVXCqmdU0LSTu+o=
+github.com/hbstack/docs/modules/toc-scrollspy v0.1.5/go.mod h1:aAF0wxtvX3L3bJV2JjTHfRywoErlk2f1YG9yVVZzfn0=
 github.com/hbstack/footer v0.2.1 h1:GZbSRcGNMeKAiDLeai0cPaEnztkDBraTNQqe2uap944=
 github.com/hbstack/footer v0.2.1/go.mod h1:ldb4b95D/7NVWQWFTIngasypCA+QQQRj1I+1BEyOi/c=
 github.com/hbstack/footer v0.2.2/go.mod h1:ap949YxPpXEhcYPoZt2RTCS3tfeEMwsdRIqSvCrM2No=
