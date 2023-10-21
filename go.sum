@@ -203,6 +203,7 @@ github.com/hbstack/docs/modules/featured-image v0.2.2/go.mod h1:npR6D4Bbu2RiVDGk
 github.com/hbstack/docs/modules/featured-image v0.2.4/go.mod h1:PPBq89wTysWnCZGuN8AgLqKj6+niaqkloNoAhOZAD9M=
 github.com/hbstack/docs/modules/featured-image v0.2.5 h1:Yt0WYsLEMLvlGyXtLyuoMBH/tMkzN7upfNrLAHxei2Q=
 github.com/hbstack/docs/modules/featured-image v0.2.5/go.mod h1:xO6X2rM/zCEFbpfejHCUzbNeqfbuyYCxcycngt+V+kA=
+github.com/hbstack/docs/modules/featured-image v0.2.6/go.mod h1:7RL3v8GF/63rB5bY/2XoWiFRBTrNz4xbCvWGAOqYuMc=
 github.com/hbstack/docs/modules/giscus v0.1.4 h1:gyCyb4ispdUnoF6EJbNghD82/jf9BCS7aR8b6oZPTZY=
 github.com/hbstack/docs/modules/giscus v0.1.4/go.mod h1:7gkUNgTeMUqpUTPAGwhD7lSBScMZBO1lKscP92XuUfw=
 github.com/hbstack/docs/modules/giscus v0.1.5/go.mod h1:OEWWifHO3BTYxg14jFcY8WPG7KpdWg+bjoDeN7ozku0=
