@@ -33,7 +33,7 @@ require (
 	github.com/hbstack/docs/modules/toc-scrollspy v0.1.6 // indirect
 	github.com/hbstack/footer v0.2.5 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.4 // indirect
-	github.com/hbstack/gallery v0.5.0 // indirect
+	github.com/hbstack/gallery v0.6.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.7.1 // indirect
 	github.com/hbstack/header v0.12.0 // indirect
