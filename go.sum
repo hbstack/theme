@@ -311,6 +311,7 @@ github.com/hbstack/header/modules/search v0.1.27/go.mod h1:2xQ5lbiNTgWFFbUSMx0ed
 github.com/hbstack/header/modules/search v0.1.28/go.mod h1:DEShhkQEvh36507BdXXLnAB6pNjNoDYC17EwfT4Al08=
 github.com/hbstack/header/modules/search v0.1.30 h1:YRyTw3knziUgmAhCEtQzvZW2dUqX3hq6aWlpJug/W3U=
 github.com/hbstack/header/modules/search v0.1.30/go.mod h1:DRhdnl4uzi6pjWmv0UMMUOlotLtUgFlWbGWZ2xXm4Js=
+github.com/hbstack/header/modules/search v0.1.31/go.mod h1:chtAc5meafXNJhISM6uodmMCp0QJ5Mis6ZHhgPJewfk=
 github.com/hbstack/header/modules/socials v0.1.4 h1:zIRJQhMLlVtz++6vz64EmwST2v8/5DJ2Th99C3QjELw=
 github.com/hbstack/header/modules/socials v0.1.4/go.mod h1:n8izOgBpgMRHdaDOoibjM7DVkVwYfxpU6LL76w08cmI=
 github.com/hbstack/header/modules/socials v0.1.6/go.mod h1:rkoeIpiyvTrmF/qgfhug/SRIVh3I3b9Cp4sqHB7Itrg=
@@ -467,6 +468,7 @@ github.com/hugomods/search v0.4.4 h1:g94Qc2zffh8ZRfSJUd7rAmgj7QWOAQgT/pPNN/skITs
 github.com/hugomods/search v0.4.4/go.mod h1:xdMNL0R06eMDyl8LVoFNp19lnFSNMFT+oje8j8N/WbI=
 github.com/hugomods/search v0.4.5 h1:RC7OTkEAQjh49/SCh5Gw0+RFzeTDE+6J5XqMixVY6mw=
 github.com/hugomods/search v0.4.5/go.mod h1:xdMNL0R06eMDyl8LVoFNp19lnFSNMFT+oje8j8N/WbI=
+github.com/hugomods/search v0.5.0/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
 github.com/hugomods/seo/modules/alternatives v0.1.0 h1:G5IjM7j7ExgXEMyxQj1Z/5JwwRW8DEmL0nDJYxA3NhE=
 github.com/hugomods/seo/modules/alternatives v0.1.0/go.mod h1:ff9uz+f5yii9k2jbwt/HKM3RpLR3EYZrNQBAOabNxMA=
 github.com/hugomods/seo/modules/favicons v0.2.0 h1:pzQMocbHHMNNiuE5vsCxE4qqaJBprYAUX4EOoiF+ynM=
