@@ -13,7 +13,7 @@ require (
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.23 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.3.3 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.3.4 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.3 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.5.3 // indirect
 	github.com/hbstack/blog/modules/sidebar/profile v1.1.3 // indirect
