@@ -80,6 +80,7 @@ github.com/hbstack/hb v0.7.1 h1:bnlE/KrhOKADI5aydZG822kT1o9QR8I8TdOWugqaMJE=
 github.com/hbstack/hb v0.7.1/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
 github.com/hbstack/header v0.12.0 h1:VMqJP3v2SMPnsiZ7VkcE1C1scyBc47FHM8AeDFbGBwI=
 github.com/hbstack/header v0.12.0/go.mod h1:MkFJjAqVs/pgOEBjdCzBTdjT6q43It0PGvZh56OkdB4=
+github.com/hbstack/header v0.12.1/go.mod h1:MkFJjAqVs/pgOEBjdCzBTdjT6q43It0PGvZh56OkdB4=
 github.com/hbstack/header/modules/language-picker v0.1.21 h1:Ojupm9duGHP9SGjCcWdFllIl1I+StLhFzvy98zElu9M=
 github.com/hbstack/header/modules/language-picker v0.1.21/go.mod h1:vlKi+qkfV0AVXl910GTj432RPrvIIUgTbejBO/vahM4=
 github.com/hbstack/header/modules/search v0.1.31 h1:ZlPBDqIwYM44NxXo1+s9AdrP39UCdn+dZ8nhTpkxYAc=
