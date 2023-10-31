@@ -210,6 +210,7 @@ github.com/hbstack/docs/modules/breadcrumb v0.1.7/go.mod h1:UjZ1pDFCob8cHTKXOoYM
 github.com/hbstack/docs/modules/breadcrumb v0.1.8/go.mod h1:1NKYNYa8Lw8KWY+3AoSiCOuDmBnRsWdC3iD9DK7QX1c=
 github.com/hbstack/docs/modules/content-panel v0.1.2 h1:VqGx8TZfSxAabuAyWuxBjWHrBPP+83+xq2tn/4Yzx8I=
 github.com/hbstack/docs/modules/content-panel v0.1.2/go.mod h1:ytvtc/Ml6Jnp9GI9lUvd3F/FFgyt3msd75veAXea2Ro=
+github.com/hbstack/docs/modules/content-panel v0.1.7/go.mod h1:wdC+CEew7LbuH4gEeNyLkjEZ1P4BTULXFoYQdiOblJE=
 github.com/hbstack/docs/modules/doc-nav v0.2.2 h1:UVzbp/uOjf+XMgbRMxoJIInrGZtDrEjeNgc8SbO1Arc=
 github.com/hbstack/docs/modules/doc-nav v0.2.2/go.mod h1:wyIyDH4lRVOpxOL/U8vwpsvCuUqJhFE4GZ5Ic31KyU0=
 github.com/hbstack/docs/modules/doc-nav v0.2.3/go.mod h1:OiY6i4qm8WclDsvYnEsKD+vwMGTVV1XT4njjG0McYfU=
