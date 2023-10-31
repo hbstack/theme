@@ -37,7 +37,7 @@ require (
 	github.com/hbstack/docs/modules/heading-sign v0.1.8 // indirect
 	github.com/hbstack/docs/modules/toc-scrollspy v0.1.6 // indirect
 	github.com/hbstack/featured-image v0.1.1 // indirect
-	github.com/hbstack/footer v0.2.6 // indirect
+	github.com/hbstack/footer v0.2.7 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
 	github.com/hbstack/gallery v0.6.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
