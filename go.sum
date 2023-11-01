@@ -93,6 +93,7 @@ github.com/hbstack/header/modules/socials v0.1.27/go.mod h1:5UmG5kRAdSeWSc7UuN+v
 github.com/hbstack/header/modules/socials v0.1.28/go.mod h1:N3tqnzmImktAMRJlwEBp7CX9zb2xrc4nyV4eSjNmGNM=
 github.com/hbstack/header/modules/theme-toggle v0.2.0 h1:jJjrG0YHU5y6bFblXqJ+kPKg87nM0PLK4nQoz0Jr6zQ=
 github.com/hbstack/header/modules/theme-toggle v0.2.0/go.mod h1:ljUc5lLVzRh7Fud+V0pob7c2CxIYPJe18++PGRAhLMI=
+github.com/hbstack/header/modules/theme-toggle v0.2.1/go.mod h1:Nwcp4+cyMYquF5Jgo2EvOREBypvTqCpFd/0zpYg/4FI=
 github.com/hbstack/heading-sign v0.1.3 h1:bkyBAwTETrbLqPBM89EuSscgLt2MOrmEPSeooeR0Jfc=
 github.com/hbstack/heading-sign v0.1.3/go.mod h1:uR6DdjYDoLDFanc8kSglEe/08GyNyQBmyNEJ6Z1KRAg=
 github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I=
