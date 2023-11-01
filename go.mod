@@ -34,7 +34,7 @@ require (
 	github.com/hbstack/docs/modules/doc-nav v0.3.2 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/docs/modules/giscus v0.1.10 // indirect
-	github.com/hbstack/docs/modules/heading-sign v0.1.8 // indirect
+	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
 	github.com/hbstack/docs/modules/toc-scrollspy v0.1.6 // indirect
 	github.com/hbstack/featured-image v0.1.1 // indirect
 	github.com/hbstack/footer v0.2.7 // indirect
