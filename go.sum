@@ -10,6 +10,7 @@ github.com/hbstack/back-to-top v0.1.2 h1:eQ05oJjjl6ByFMKjuSCYJDLl5i5DCRyUt7Z5Eds
 github.com/hbstack/back-to-top v0.1.2/go.mod h1:/Hc4gkEbdaNLSd5j7jjYsvjl39UBX0bTO5/g4ltNfR0=
 github.com/hbstack/base v0.3.0 h1:Ey99x4UO3zROARxMgq7aJEAqxpOeUm2O2InLaKDKATU=
 github.com/hbstack/base v0.3.0/go.mod h1:8ZSFDZyhtd26eNdVF7QyPqmxRg2rCJFxjN1I2iYu5N8=
+github.com/hbstack/base v0.4.0/go.mod h1:UrBBIY2xIIv3qLfHU5sX4Z1+vmWv0WuqXoSjco1huIc=
 github.com/hbstack/bigger-picture v0.9.2 h1:JTvg77xSkUBvz0TAX/eVDllFYAxpiCECxwX14H52kxc=
 github.com/hbstack/bigger-picture v0.9.2/go.mod h1:CficQfdxEJx1U/5JOUOSgAqkH40XxdnSRcvLzsyHMl8=
 github.com/hbstack/blog v0.19.1 h1:BygtecI4KcuxdBk7WqCYUFDFehzwl6gNCI12Okv2hK4=
@@ -41,6 +42,7 @@ github.com/hbstack/bootstrap v0.2.0 h1:pHZ1KQ0HHwhHFbgzZ401kMSxkS7Tg0I/X002SD6WH
 github.com/hbstack/bootstrap v0.2.0/go.mod h1:BqrUe89qxDkc8kxJ4iaK/XZxzZrWhlGloOFJfcNxAUU=
 github.com/hbstack/breadcrumb v0.3.0 h1:0KkedEttKT0WLkdtjDYslwstkVFXKN0cMqzN1X6Zo7Q=
 github.com/hbstack/breadcrumb v0.3.0/go.mod h1:TTqv6qJzqTeYvHSZ3gIifRB/zVD0l+I7/Sxu0cftqtE=
+github.com/hbstack/breadcrumb v0.4.0/go.mod h1:TTqv6qJzqTeYvHSZ3gIifRB/zVD0l+I7/Sxu0cftqtE=
 github.com/hbstack/bs-tooltip v0.1.1 h1:3ne4fgVrn90TUPhU5r94AKqY2zD6ZmUFZGVW1wzZEv4=
 github.com/hbstack/bs-tooltip v0.1.1/go.mod h1:CHhLg2OQq5CdRI1UCe52NbBUQb+pNkXFPdyj32gB/uk=
 github.com/hbstack/carousel v0.2.4 h1:OkMRqyhklJBMbOXo8p/dsS+iQVQTrMUI7Jfm13Js3L4=
@@ -53,6 +55,7 @@ github.com/hbstack/docs v0.8.0 h1:1G8+luGGQ1IxQtZcKvQYdlVi3mJZETr2RnFa4P+NC0s=
 github.com/hbstack/docs v0.8.0/go.mod h1:gg+Shum/JRUzh/A1/SOT8nXHjokygF39SufrpYsD29s=
 github.com/hbstack/docs/modules/breadcrumb v0.1.8 h1:7J2vqwLIlwz+Nkb4xHTQ/1bud7Nu15+JDS01IL40NxU=
 github.com/hbstack/docs/modules/breadcrumb v0.1.8/go.mod h1:1NKYNYa8Lw8KWY+3AoSiCOuDmBnRsWdC3iD9DK7QX1c=
+github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
 github.com/hbstack/docs/modules/content-panel v0.1.7 h1:eJamXiIsd2PcnWMh9/dWUnu2r5iD+EWanHYH5NgLDz0=
 github.com/hbstack/docs/modules/content-panel v0.1.7/go.mod h1:wdC+CEew7LbuH4gEeNyLkjEZ1P4BTULXFoYQdiOblJE=
 github.com/hbstack/docs/modules/doc-nav v0.3.1 h1:nInyQ988hMkJ6OOGbvLURLb9YlTMpeb8mx9mbVna+x4=

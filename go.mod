@@ -8,7 +8,7 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.1.2 // indirect
-	github.com/hbstack/base v0.3.0 // indirect
+	github.com/hbstack/base v0.4.0 // indirect
 	github.com/hbstack/bigger-picture v0.9.2 // indirect
 	github.com/hbstack/blog v0.19.2 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.22 // indirect
@@ -23,13 +23,13 @@ require (
 	github.com/hbstack/blog/modules/sidebar/taxonomies v0.3.13 // indirect
 	github.com/hbstack/blog/modules/toc-scrollspy v0.1.20 // indirect
 	github.com/hbstack/bootstrap v0.2.0 // indirect
-	github.com/hbstack/breadcrumb v0.3.0 // indirect
+	github.com/hbstack/breadcrumb v0.4.0 // indirect
 	github.com/hbstack/bs-tooltip v0.1.1 // indirect
 	github.com/hbstack/carousel v0.2.4 // indirect
 	github.com/hbstack/code-block-panel v0.1.1 // indirect
 	github.com/hbstack/content-panel v0.3.0 // indirect
 	github.com/hbstack/docs v0.8.0 // indirect
-	github.com/hbstack/docs/modules/breadcrumb v0.1.8 // indirect
+	github.com/hbstack/docs/modules/breadcrumb v0.1.9 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.7 // indirect
 	github.com/hbstack/docs/modules/doc-nav v0.3.1 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.7 // indirect
