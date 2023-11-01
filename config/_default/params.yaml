@@ -25,6 +25,9 @@ hb:
       twitter: razonyang
       rss: true
       mastodon: https://techhub.social/@hbstack
+  terms:
+    # the paginate for categories, tags, series list pages.
+    paginate: 12
   blog:
     full_width: false # when true, the blog layout takes full width.
     sidebar:
