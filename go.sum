@@ -182,6 +182,7 @@ github.com/hugomods/seo/modules/base v0.1.0 h1:ZEkWuYeRJeQakBkBThO3N3lmGzOZoPixs
 github.com/hugomods/seo/modules/base v0.1.0/go.mod h1:qfm1Vga0eGxL+Szgz8Jopm+NtJ5PGov2a2dikTg1qSg=
 github.com/hugomods/seo/modules/favicons v0.2.0 h1:pzQMocbHHMNNiuE5vsCxE4qqaJBprYAUX4EOoiF+ynM=
 github.com/hugomods/seo/modules/favicons v0.2.0/go.mod h1:xFDhrpWUZR4NMMVkilzT6xFBHiF5eyCQ8PlzOS2K9lY=
+github.com/hugomods/seo/modules/favicons v0.2.1/go.mod h1:xFDhrpWUZR4NMMVkilzT6xFBHiF5eyCQ8PlzOS2K9lY=
 github.com/hugomods/seo/modules/open-graph v0.1.0 h1:Whveal1j1n2xZWcAlNAd2rdfKp7Fh5apol36wLGLb54=
 github.com/hugomods/seo/modules/open-graph v0.1.0/go.mod h1:G7mXf7D1QtRN/i7A9v+cUF5P55H/QaxRqxJ8tp9fVq4=
 github.com/hugomods/seo/modules/schema v0.1.1 h1:8IuJxCOxk9pfKpCFMik5fDCX7zaFwkGoeKacnYV0sgA=
