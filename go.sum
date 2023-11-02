@@ -117,6 +117,7 @@ github.com/hbstack/meta/recommended v0.2.10 h1:RzRe2LT/lJxlsfGv5UzYC3onl7lp1VWbC
 github.com/hbstack/meta/recommended v0.2.10/go.mod h1:OdGN+zqdgFbet5A6XrfjaTNUTd5L91rOUNRJxgq38fo=
 github.com/hbstack/noscript v0.3.0 h1:Fx3mPettNitYX8dSAkY8IDnrx0+ZaYTHM2fy6MBpSas=
 github.com/hbstack/noscript v0.3.0/go.mod h1:YLqA9Y8R1yfkTEgtURXb5it5bZKuOiE1ZKyVyLn0RrU=
+github.com/hbstack/noscript v0.4.0/go.mod h1:BvSmPt+YXX3boc6pIncpIi+hEAYDiCw18eldLBBWHJc=
 github.com/hbstack/pagination v0.3.0 h1:/gbaeyrS5O42yam7snQpjG6tSGr0Mc8ZQV3sPb77/aI=
 github.com/hbstack/pagination v0.3.0/go.mod h1:rYUcK2N6NxzLiy67xfXzt1xSCE5QKFPYHG3+2hsecYQ=
 github.com/hbstack/progress-bar v0.1.0 h1:2ZiGS3RFZbZYBUbT2nFCoU9SJsbD9jtV4A7ab41B4jg=
