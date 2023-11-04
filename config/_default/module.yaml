@@ -18,6 +18,11 @@ imports:
   # - path: github.com/hugomods/icons/vendors/tabler
   # - path: github.com/hugomods/icons/vendors/feather
 
+  # header themes
+  # - path: github.com/hbstack/header/themes/pills
+  # - path: github.com/hbstack/header/themes/tabs
+  # - path: github.com/hbstack/header/themes/classic
+
   # blog sidebar
   - path: github.com/hbstack/blog/modules/sidebar/profile
   - path: github.com/hbstack/blog/modules/sidebar/posts
