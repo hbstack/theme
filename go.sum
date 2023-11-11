@@ -150,6 +150,7 @@ github.com/hbstack/snackbar v0.1.2/go.mod h1:4uZSGpI9ZtR9by0bA8yJW2y61sRks2W4a8V
 github.com/hbstack/socials v0.7.0 h1:DDhH4oN+MivQlQP+VE2e3DcMGQOGmztrnnjdtkAyJNU=
 github.com/hbstack/socials v0.7.0/go.mod h1:0IViwiReyAknJBIXFqhThn6m13jbib6lLFYfMIWZYzY=
 github.com/hbstack/socials v0.8.0/go.mod h1:D9aDcI9L3rlQpCPhpPfPUerKmH0Fr6LezwLJYeFWfRQ=
+github.com/hbstack/socials v0.9.0/go.mod h1:8H+ztN27J59oWcQyQTFj95HsauF2a22GXqQlNMGTQw4=
 github.com/hbstack/syntax-highlighting v0.1.0 h1:WxdhNgCktllNKQDqu1BmLmg9dsi77/dXIlcdQ8KZZI0=
 github.com/hbstack/syntax-highlighting v0.1.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 h1:lGH8nqOU/+3yzHIk5s1nTrzHDImEnvLkr/0viuPfx3Y=
