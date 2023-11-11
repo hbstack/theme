@@ -39,7 +39,7 @@ require (
 	github.com/hbstack/featured-image v0.1.1 // indirect
 	github.com/hbstack/footer v0.2.7 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
-	github.com/hbstack/gallery v0.7.0 // indirect
+	github.com/hbstack/gallery v0.8.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/hb v0.7.2 // indirect
