@@ -51,7 +51,7 @@ require (
 	github.com/hbstack/heading-sign v0.1.3 // indirect
 	github.com/hbstack/mermaid v0.1.0 // indirect
 	github.com/hbstack/meta/recommended v0.2.10 // indirect
-	github.com/hbstack/noscript v0.4.0 // indirect
+	github.com/hbstack/noscript v0.5.0 // indirect
 	github.com/hbstack/pagination v0.5.0 // indirect
 	github.com/hbstack/progress-bar v0.1.0 // indirect
 	github.com/hbstack/pwa v0.1.2 // indirect
