@@ -91,7 +91,7 @@ require (
 	github.com/hugomods/seo/modules/translations v0.1.0 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.0 // indirect
 	github.com/hugomods/shortcodes v0.12.1 // indirect
-	github.com/hugomods/simple-icons v9.19.1+incompatible // indirect
+	github.com/hugomods/simple-icons v9.20.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v7.1.1+incompatible // indirect
