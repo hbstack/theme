@@ -188,6 +188,7 @@ github.com/hugomods/icons/vendors/font-awesome v0.6.1/go.mod h1:kmMci4qX8yTQPT28
 github.com/hugomods/icons/vendors/simple-icons v1.0.19 h1:EW0gsvIo5FMKNRdBtwGU0X3G6D1FSMf4l8OVFpCDPxU=
 github.com/hugomods/icons/vendors/simple-icons v1.0.19/go.mod h1:9MeUCHoTT5TXJnS+YRv5ML8VZrDBvYEJx0sWjw0hHfM=
 github.com/hugomods/icons/vendors/simple-icons v1.0.20/go.mod h1:8wbqQIjRS1HdnGDhTIhgfpHjfRDU5/k3223eEVJYyeE=
+github.com/hugomods/icons/vendors/simple-icons v1.0.21/go.mod h1:l5nhvpMaZiL2iVTl0KCvOE5PzXUfXsODQiQ5u7fqX9w=
 github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY=
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/images v0.8.0 h1:rsI+Akwbz+Vd3mI0leAlCD8R696usHw13nH972mTe4E=
@@ -227,6 +228,7 @@ github.com/hugomods/shortcodes v0.12.1/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe
 github.com/hugomods/simple-icons v9.19.0+incompatible h1:ty/XvC8Sjr9QSYSa59fJ8aGfGsjEFj0sbJ5XAbT+/KQ=
 github.com/hugomods/simple-icons v9.19.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/simple-icons v9.19.1+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
+github.com/hugomods/simple-icons v9.20.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/snackbar v0.1.2 h1:SLpfH9jlYwf81epH7DvM2XTZHo+3fXXpk6XKtxmo964=
 github.com/hugomods/snackbar v0.1.2/go.mod h1:ykFm0IFibeQPuPAm8Gaa27xJS/bNZcSez4omVSl2gQ0=
 github.com/hugomods/workbox v0.1.0 h1:yxuTj3gT1BNf6OitxrjxSJXfmbFBj2UTwdWr142eYFQ=
