@@ -37,6 +37,7 @@ github.com/hbstack/blog/modules/related-posts v0.2.4 h1:H13JxGyQA87AMrBFmpdpNtnN
 github.com/hbstack/blog/modules/related-posts v0.2.4/go.mod h1:doDygspG1tGEX2VUdLe0VhJ0uApoBUzku7s3/WyThCc=
 github.com/hbstack/blog/modules/sidebar/posts v0.5.4 h1:9FQ2EDVrjh3ntIoH1N7srQ38bhapeWbq35IkmI5AbP8=
 github.com/hbstack/blog/modules/sidebar/posts v0.5.4/go.mod h1:lON1JanaR6Gn9V9PY0oDMWjcipsVpYrEOfh4Xr9SPzo=
+github.com/hbstack/blog/modules/sidebar/posts v0.6.0/go.mod h1:3GGTcyptp/ml8F4/ZTugrLpzjsVUnY5Pbh8jGPWYynA=
 github.com/hbstack/blog/modules/sidebar/profile v1.1.4 h1:jS1bEGGAR49zVe3VhA/UMmz+9W/b6qxLiMCpqf9Dwz4=
 github.com/hbstack/blog/modules/sidebar/profile v1.1.4/go.mod h1:l5T3IcyTrdvbzxu6cvMadwkDEDUYvXlWw0sQ5KbaDxQ=
 github.com/hbstack/blog/modules/sidebar/taxonomies v0.3.13 h1:GZ4ICiqkGgC4wHoDTF7bdSXPdPSRcsFgEu+M1wAj5NE=
