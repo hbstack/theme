@@ -233,6 +233,7 @@ github.com/hugomods/shortcodes v0.12.1 h1:bhPTgbDIUEG8Hqi0eMESdrCN9Ot4SE3zV0TXSU
 github.com/hugomods/shortcodes v0.12.1/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
 github.com/hugomods/shortcodes v0.13.0/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
 github.com/hugomods/shortcodes v0.13.1/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
+github.com/hugomods/shortcodes v0.13.2/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
 github.com/hugomods/simple-icons v9.19.0+incompatible h1:ty/XvC8Sjr9QSYSa59fJ8aGfGsjEFj0sbJ5XAbT+/KQ=
 github.com/hugomods/simple-icons v9.19.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/simple-icons v9.19.1+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
