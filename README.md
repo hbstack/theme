@@ -2,6 +2,10 @@
 
 The starter theme template of [HB Framework](https://hbstack.dev/), live demo: https://theme.hbstack.dev/.
 
+## News
+
+Our [cards style theme](https://github.com/hbstack/theme-cards) is available now.
+
 ## Documentations
 
 | English | 简体中文 |
