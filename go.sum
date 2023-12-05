@@ -49,6 +49,7 @@ github.com/hbstack/bootstrap v0.2.0/go.mod h1:BqrUe89qxDkc8kxJ4iaK/XZxzZrWhlGloO
 github.com/hbstack/breadcrumb v0.5.0 h1:Muqr9Srd3F9gQOMfU0P1ZXLgE78tFI6UfLwnZ52ksOg=
 github.com/hbstack/breadcrumb v0.5.0/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
 github.com/hbstack/breadcrumb v0.5.1/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
+github.com/hbstack/breadcrumb v0.5.2/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
 github.com/hbstack/bs-tooltip v0.1.1 h1:3ne4fgVrn90TUPhU5r94AKqY2zD6ZmUFZGVW1wzZEv4=
 github.com/hbstack/bs-tooltip v0.1.1/go.mod h1:CHhLg2OQq5CdRI1UCe52NbBUQb+pNkXFPdyj32gB/uk=
 github.com/hbstack/carousel v0.2.4 h1:OkMRqyhklJBMbOXo8p/dsS+iQVQTrMUI7Jfm13Js3L4=
