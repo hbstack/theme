@@ -66,6 +66,7 @@ github.com/hbstack/content-panel v0.7.2/go.mod h1:Hu7l0CBytB9B83NFZ0bWFffV1WRPSr
 github.com/hbstack/docs v0.11.0 h1:cBoBqFGSR+O4lotJA814+9tDZoi01sGe6jfb0pkyhNo=
 github.com/hbstack/docs v0.11.0/go.mod h1:lnY3lCyZMU+MjKanhIm+WyBTqIPjLInJgP8ukIzPDtE=
 github.com/hbstack/docs v0.11.2/go.mod h1:lhMS1RUegW09gWtwJNr9svMjuzREAaFB1OFwusWoZEg=
+github.com/hbstack/docs v0.11.3/go.mod h1:r5PqcXIcXb91kEGMrczPPcKYNJou+u/UvEcWHu7bSvo=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9 h1:znf/33KfQFZXOXVKezdksy/euM0FDnoNKeKSyw3SwCk=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
 github.com/hbstack/docs/modules/content-panel v0.1.8 h1:jdvI05iKD3awcCFx9UoGNh7DfNK60jWLJjVAspqEH+o=
