@@ -49,7 +49,7 @@ require (
 	github.com/hbstack/header/modules/socials v0.1.28 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.4.2 // indirect
 	github.com/hbstack/heading-sign v0.1.3 // indirect
-	github.com/hbstack/mermaid v0.2.0 // indirect
+	github.com/hbstack/mermaid v0.2.1 // indirect
 	github.com/hbstack/meta/recommended v0.2.10 // indirect
 	github.com/hbstack/noscript v0.5.0 // indirect
 	github.com/hbstack/pagination v0.6.0 // indirect
