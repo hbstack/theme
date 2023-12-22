@@ -7,6 +7,8 @@ hb:
   
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
+  
+  full_width: false # when true, the layout takes full width globally.
 
   header:
     brand: HB # the brand name, leave it empty to use site's title.
@@ -29,7 +31,6 @@ hb:
     # the paginate for categories, tags, series list pages.
     paginate: 12
   blog:
-    full_width: false # when true, the blog layout takes full width.
     sidebar:
       profile:
         # title: Profile title other than site title.
