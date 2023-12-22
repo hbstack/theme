@@ -105,6 +105,7 @@ github.com/hbstack/giscus v0.1.1 h1:jKbA17XjAcbD59QIDUVoFOdbi9P2WzQMtOcIpG/Znuo=
 github.com/hbstack/giscus v0.1.1/go.mod h1:XElW8oNLnS0dRVFzoo9Gq8xknvz3D2PuTHC7yw9h3EE=
 github.com/hbstack/hb v0.7.2 h1:usdoBKt4ubow1i4ESJTkQZydattjLOJfZ5nlaJK+zP4=
 github.com/hbstack/hb v0.7.2/go.mod h1:ZOmDVAInLN3kwl/uoggHvj9e7dU5UFIcvswIGbNdq4M=
+github.com/hbstack/hb v0.8.0/go.mod h1:Z+gW6UsRwuivPcqqEb67h7vSQwSCWOr7KxNXkhcsEzM=
 github.com/hbstack/header v0.12.1 h1:pJVsIB8kv8V1ljpLG8UbquYyAXKKBDDPSHmmBy6soKo=
 github.com/hbstack/header v0.12.1/go.mod h1:MkFJjAqVs/pgOEBjdCzBTdjT6q43It0PGvZh56OkdB4=
 github.com/hbstack/header v0.12.2/go.mod h1:Tr1ae4nQQ43FQM+z/GcCPwTANmuJ8NaUpzcEcN4ynTg=
