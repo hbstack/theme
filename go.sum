@@ -74,6 +74,7 @@ github.com/hbstack/docs v0.11.0/go.mod h1:lnY3lCyZMU+MjKanhIm+WyBTqIPjLInJgP8ukI
 github.com/hbstack/docs v0.11.2/go.mod h1:lhMS1RUegW09gWtwJNr9svMjuzREAaFB1OFwusWoZEg=
 github.com/hbstack/docs v0.11.3/go.mod h1:r5PqcXIcXb91kEGMrczPPcKYNJou+u/UvEcWHu7bSvo=
 github.com/hbstack/docs v0.11.4/go.mod h1:Lmw+6O3fOIrkCBqAYYGgRCCn6iK4Jk3KsftN7KEFO7o=
+github.com/hbstack/docs v0.11.5/go.mod h1:scQd01bWyOnI9eIPhEihRFi/fjwSKuPVafGEXuLKSLI=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9 h1:znf/33KfQFZXOXVKezdksy/euM0FDnoNKeKSyw3SwCk=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
 github.com/hbstack/docs/modules/content-panel v0.1.8 h1:jdvI05iKD3awcCFx9UoGNh7DfNK60jWLJjVAspqEH+o=
@@ -108,6 +109,7 @@ github.com/hbstack/giscus v0.1.1/go.mod h1:XElW8oNLnS0dRVFzoo9Gq8xknvz3D2PuTHC7y
 github.com/hbstack/hb v0.7.2 h1:usdoBKt4ubow1i4ESJTkQZydattjLOJfZ5nlaJK+zP4=
 github.com/hbstack/hb v0.7.2/go.mod h1:ZOmDVAInLN3kwl/uoggHvj9e7dU5UFIcvswIGbNdq4M=
 github.com/hbstack/hb v0.8.0/go.mod h1:Z+gW6UsRwuivPcqqEb67h7vSQwSCWOr7KxNXkhcsEzM=
+github.com/hbstack/hb v0.8.1/go.mod h1:Z+gW6UsRwuivPcqqEb67h7vSQwSCWOr7KxNXkhcsEzM=
 github.com/hbstack/header v0.12.1 h1:pJVsIB8kv8V1ljpLG8UbquYyAXKKBDDPSHmmBy6soKo=
 github.com/hbstack/header v0.12.1/go.mod h1:MkFJjAqVs/pgOEBjdCzBTdjT6q43It0PGvZh56OkdB4=
 github.com/hbstack/header v0.12.2/go.mod h1:Tr1ae4nQQ43FQM+z/GcCPwTANmuJ8NaUpzcEcN4ynTg=
