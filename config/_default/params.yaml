@@ -88,7 +88,7 @@ pwa:
     theme_color: '#712cf9'
     short_name: 'HB Theme'
 
-# see https://hugomods.com/en/docs/search/#site-parameters
+# see https://hugomods.com/search/configurations/.
 search:
   stall_threshold: 300
   min_match_char_length: 2
