@@ -159,6 +159,7 @@ github.com/hbstack/socials v0.9.0 h1:Lru22qqydHTcBJkkYlsk0Dl91IuZPLWBpr+BQB6d87U
 github.com/hbstack/socials v0.9.0/go.mod h1:8H+ztN27J59oWcQyQTFj95HsauF2a22GXqQlNMGTQw4=
 github.com/hbstack/syntax-highlighting v0.1.0 h1:WxdhNgCktllNKQDqu1BmLmg9dsi77/dXIlcdQ8KZZI0=
 github.com/hbstack/syntax-highlighting v0.1.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
+github.com/hbstack/syntax-highlighting v0.2.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 h1:lGH8nqOU/+3yzHIk5s1nTrzHDImEnvLkr/0viuPfx3Y=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
