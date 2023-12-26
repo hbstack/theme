@@ -47,7 +47,7 @@ require (
 	github.com/hbstack/header/modules/language-picker v0.1.23 // indirect
 	github.com/hbstack/header/modules/search v0.1.33 // indirect
 	github.com/hbstack/header/modules/socials v0.1.28 // indirect
-	github.com/hbstack/header/modules/theme-toggle v0.4.2 // indirect
+	github.com/hbstack/header/modules/theme-toggle v0.4.3 // indirect
 	github.com/hbstack/heading-sign v0.1.3 // indirect
 	github.com/hbstack/mermaid v0.2.1 // indirect
 	github.com/hbstack/meta/recommended v0.2.10 // indirect
