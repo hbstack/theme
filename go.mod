@@ -63,7 +63,7 @@ require (
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
-	github.com/henrygd/bigger-picture v1.1.12 // indirect
+	github.com/henrygd/bigger-picture v1.1.13 // indirect
 	github.com/hugomods/base v0.4.0 // indirect
 	github.com/hugomods/bootstrap v0.15.0 // indirect
 	github.com/hugomods/code-block-panel v0.5.0 // indirect
