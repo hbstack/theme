@@ -105,6 +105,7 @@ github.com/hbstack/footer/modules/socials v0.2.5/go.mod h1:bggKfxJiylFYCG3AP3cKk
 github.com/hbstack/gallery v0.8.0 h1:8o9qaFFOcMnJ+mu72FDYHGaVpM6eLX9B6kV1AiF4oH8=
 github.com/hbstack/gallery v0.8.0/go.mod h1:smQqq5RLigiWC5fpTDpErqN9RPVdDBtrNMloFZ3ITRQ=
 github.com/hbstack/gallery v0.9.0/go.mod h1:jiZ6Uu/TNErulCwMWR5jdZzzbQsdRtm/2PbbhacRAJQ=
+github.com/hbstack/gallery v0.10.0/go.mod h1:ni5LadxEx6YVdu+/67+VQZ0FEgSAj5Zqd+tfXLd1RFY=
 github.com/hbstack/gallery/modules/breadcrumb v0.1.0 h1:zenzwq4EiE2PIB2gx8QU4I2Zx9KAK901EWpgLGu5XqA=
 github.com/hbstack/gallery/modules/breadcrumb v0.1.0/go.mod h1:7E1zwN0GC59OsXAUEALUiYWJhQw5hGPnpHfRHQDS/5Q=
 github.com/hbstack/giscus v0.1.1 h1:jKbA17XjAcbD59QIDUVoFOdbi9P2WzQMtOcIpG/Znuo=
