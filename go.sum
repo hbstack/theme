@@ -144,6 +144,7 @@ github.com/hbstack/header/modules/theme-toggle v0.4.3/go.mod h1:RnAxM/75D5uPWQ/9
 github.com/hbstack/header/modules/theme-toggle v0.4.4/go.mod h1:s0wry+fpt4OJO49dwHSaDW2aux7SZ+zvX5t6wlWSw5k=
 github.com/hbstack/heading-sign v0.1.3 h1:bkyBAwTETrbLqPBM89EuSscgLt2MOrmEPSeooeR0Jfc=
 github.com/hbstack/heading-sign v0.1.3/go.mod h1:uR6DdjYDoLDFanc8kSglEe/08GyNyQBmyNEJ6Z1KRAg=
+github.com/hbstack/heading-sign v0.2.0/go.mod h1:SXJWIr9C/7phTOXfWMzNSVZCeimKbYualuwIOHDeOu0=
 github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I=
 github.com/hbstack/mermaid v0.1.0/go.mod h1:dQAfzX1SA4b3k5ytA8WPR5luxjX4ii7EdtoRsr8WLNw=
 github.com/hbstack/mermaid v0.2.0/go.mod h1:8teRAhZr8uLd/G5anYe0X7I2GLW5nCPZuE9lbrd12FI=
