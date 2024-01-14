@@ -59,6 +59,7 @@ github.com/hbstack/blog/modules/toc-scrollspy v0.1.20 h1:DnN7Vl7rvsl5pPRpwcMkW9h
 github.com/hbstack/blog/modules/toc-scrollspy v0.1.20/go.mod h1:Ord7TP0ZP4C+l6a83oEAvPyTOnnGsmrIC26MTJaKYmI=
 github.com/hbstack/bootstrap v0.2.0 h1:pHZ1KQ0HHwhHFbgzZ401kMSxkS7Tg0I/X002SD6WHak=
 github.com/hbstack/bootstrap v0.2.0/go.mod h1:BqrUe89qxDkc8kxJ4iaK/XZxzZrWhlGloOFJfcNxAUU=
+github.com/hbstack/bootstrap v0.2.1/go.mod h1:IvEwsxbTINkAbiwCC9Nqvuguh6V+Z/8Dg3eZ+TLwWHc=
 github.com/hbstack/breadcrumb v0.5.0 h1:Muqr9Srd3F9gQOMfU0P1ZXLgE78tFI6UfLwnZ52ksOg=
 github.com/hbstack/breadcrumb v0.5.0/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
 github.com/hbstack/breadcrumb v0.5.1/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
@@ -192,6 +193,7 @@ github.com/hugomods/bootstrap v0.14.0/go.mod h1:xibujTCci1NMBmQ8jzvxAYx2bKKQVWao
 github.com/hugomods/bootstrap v0.15.0/go.mod h1:uieaNCwD8ajNXjXmvCGoV0DluFraEn2h8WzXhwtmkig=
 github.com/hugomods/bootstrap v0.15.1/go.mod h1:HOdgrRHBMvH+MknbcdHwen50Y5ihT2n6wbvz3z628uE=
 github.com/hugomods/bootstrap v0.16.0/go.mod h1:HOdgrRHBMvH+MknbcdHwen50Y5ihT2n6wbvz3z628uE=
+github.com/hugomods/bootstrap v0.17.0/go.mod h1:EA5CtuNQX+aNkwEt1xae7clZ+4087KFXWZGE+2/f5oc=
 github.com/hugomods/code-block-panel v0.5.0 h1:IjlVQZJccs02x0TaNxsLR4S2PRyzy3tBXE3nFT2vJxA=
 github.com/hugomods/code-block-panel v0.5.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/font-awesome v6.4.2+incompatible h1:oTdZYvNEXRuocAaGTa8f6ZET9e+cjD8JXpZRG7dx8Qw=
