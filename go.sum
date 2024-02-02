@@ -78,6 +78,7 @@ github.com/hbstack/giscus v0.1.1 h1:jKbA17XjAcbD59QIDUVoFOdbi9P2WzQMtOcIpG/Znuo=
 github.com/hbstack/giscus v0.1.1/go.mod h1:XElW8oNLnS0dRVFzoo9Gq8xknvz3D2PuTHC7yw9h3EE=
 github.com/hbstack/hb v0.9.2 h1:KtqQaqU6ZIJN2w2cXpoUolfmukSdpib+1UXig0JdMdI=
 github.com/hbstack/hb v0.9.2/go.mod h1:6T8TytCOb1C0EIRVcjzwuhI/G/H0ytTOaJbT1xwiDuY=
+github.com/hbstack/hb v0.10.0/go.mod h1:6T8TytCOb1C0EIRVcjzwuhI/G/H0ytTOaJbT1xwiDuY=
 github.com/hbstack/header v0.12.7 h1:hiE+w7kKgHe/jOOHEAv2wHlxnYZVgfDH+Twdrtw2CXg=
 github.com/hbstack/header v0.12.7/go.mod h1:UmRz21kEHDZjFA+TGjWSM/68WL8xHK15CmNgWBM9BEM=
 github.com/hbstack/header/modules/language-picker v0.1.24 h1:OEWy+B1PCJXgoz62EKwBhObq5lNOsfXdjjtESHBi81c=
