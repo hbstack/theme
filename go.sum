@@ -162,6 +162,7 @@ github.com/hugomods/icons/vendors/bootstrap v0.5.5/go.mod h1:DtuYP+dG9Sttfsggd9k
 github.com/hugomods/icons/vendors/font-awesome v0.6.1 h1:MyYF67fPthN4EDkT/IwY0ydowxzE6J/oKFTltOCY2vY=
 github.com/hugomods/icons/vendors/font-awesome v0.6.1/go.mod h1:kmMci4qX8yTQPT28sskzKRudJiQAAiZZugjNbkakRhk=
 github.com/hugomods/icons/vendors/font-awesome v0.6.2/go.mod h1:S7BE6/wpDplzG9uTnZqG6Q7ruMFi8MN1R+DqE8gNc3Y=
+github.com/hugomods/icons/vendors/font-awesome v0.6.3/go.mod h1:S7BE6/wpDplzG9uTnZqG6Q7ruMFi8MN1R+DqE8gNc3Y=
 github.com/hugomods/icons/vendors/simple-icons v1.0.28 h1:d8cDvQXKc+hLWvngP0RZl1q6Ygv4/WxMD9pGDGTwQrk=
 github.com/hugomods/icons/vendors/simple-icons v1.0.28/go.mod h1:p1h2vSOPRPf+wlqISlrZPNZqF6dLdg4T0l9A05KM4BM=
 github.com/hugomods/icons/vendors/simple-icons v1.0.29/go.mod h1:xarNh9bs80owlZgbN9TP894ITqsjiClD3B/JIJtfYL8=
