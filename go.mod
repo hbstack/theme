@@ -82,7 +82,7 @@ require (
 	github.com/hugomods/katex v0.3.0 // indirect
 	github.com/hugomods/mermaid v0.1.1 // indirect
 	github.com/hugomods/pwa v0.7.0 // indirect
-	github.com/hugomods/search v0.13.1 // indirect
+	github.com/hugomods/search v0.13.2 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.0 // indirect
 	github.com/hugomods/seo/modules/base v0.1.0 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.1 // indirect
