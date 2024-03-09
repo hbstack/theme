@@ -65,7 +65,7 @@ require (
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.15 // indirect
 	github.com/hugomods/base v0.4.2 // indirect
-	github.com/hugomods/bootstrap v0.18.4 // indirect
+	github.com/hugomods/bootstrap v0.18.5 // indirect
 	github.com/hugomods/code-block-panel v0.5.0 // indirect
 	github.com/hugomods/font-awesome v6.5.1+incompatible // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
