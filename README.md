@@ -6,7 +6,7 @@ The starter theme template of [HB Framework](https://hbstack.dev/), live demo: h
 
 Our [cards style theme](https://github.com/hbstack/theme-cards) is available now.
 
-## Documentations
+## Documentation
 
 | English | 简体中文 |
 | ------- | -------- |
