@@ -12,7 +12,7 @@ authors:
   - razonyang
 ---
 
-A fast, responsive and feature-rich Hugo theme for blog and documentations site.
+A fast, responsive and feature-rich Hugo theme for blog and documentation site.
 
 <!--more-->
 
