@@ -67,7 +67,7 @@ require (
 	github.com/hugomods/base v0.6.0 // indirect
 	github.com/hugomods/bootstrap v0.21.2 // indirect
 	github.com/hugomods/code-block-panel v0.5.0 // indirect
-	github.com/hugomods/font-awesome v6.5.1+incompatible // indirect
+	github.com/hugomods/font-awesome v6.5.2+incompatible // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.1 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
