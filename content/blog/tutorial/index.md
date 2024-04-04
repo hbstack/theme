@@ -36,7 +36,7 @@ authors:
   - hugomods
 ---
 
-A simple tutorial that offers samples and code snippets show how to create rich content, please refer to the [documentations](https://hbstack.dev/en/) for more usage.
+A simple tutorial that offers samples and code snippets show how to create rich content, please refer to the [documentation](https://hbstack.dev/en/) for more usage.
 
 <!--more-->
 
