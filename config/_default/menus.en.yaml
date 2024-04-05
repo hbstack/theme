@@ -9,7 +9,7 @@ main:
         vendor: font-awesome-solid
         name: headset
 
-  - name: Documentations
+  - name: Documentation
     parent: support
     url: https://hbstack.dev/
     weight: 1
