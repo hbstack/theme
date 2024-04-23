@@ -29,6 +29,7 @@ github.com/hbstack/blog v0.26.2/go.mod h1:WBmo3M7F5HFabY2nWU8g2oJ8RK7rAynxKwVWf1
 github.com/hbstack/blog v0.26.3/go.mod h1:WBmo3M7F5HFabY2nWU8g2oJ8RK7rAynxKwVWf15AAIQ=
 github.com/hbstack/blog v0.27.0/go.mod h1:WBmo3M7F5HFabY2nWU8g2oJ8RK7rAynxKwVWf15AAIQ=
 github.com/hbstack/blog v0.27.2/go.mod h1:WBmo3M7F5HFabY2nWU8g2oJ8RK7rAynxKwVWf15AAIQ=
+github.com/hbstack/blog v0.29.0/go.mod h1:JeosIMEAE5RvRokP03xIVhPL1n19e0oyfvaMNzr+OpE=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22 h1:NDcjR5805LBDRcLaDF12VAIAJiRqCL/e/GX+1DE7O0k=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22/go.mod h1:abqj7FTsHihbv3B2szGm4YmVGVZWzWg2VVA5ZhqUyKY=
 github.com/hbstack/blog/modules/content-panel v0.1.21 h1:g43IVjn3O6QCQSvCbgr9iYCgZcI5XG8YAiuVPb269Ok=
@@ -142,6 +143,7 @@ github.com/hbstack/noscript v0.5.0 h1:pyuTLNlx+g2UjlGgQ+cafEu0onLuFA7m9FlgBTQpRV
 github.com/hbstack/noscript v0.5.0/go.mod h1:BvSmPt+YXX3boc6pIncpIi+hEAYDiCw18eldLBBWHJc=
 github.com/hbstack/pagination v0.6.0 h1:sUirQEsW9ZmRU0GxlsE2pN7ZYghI4aqJYgfWAgd+iys=
 github.com/hbstack/pagination v0.6.0/go.mod h1:xAvZzN0UZW0j/IAUipcRIIQ7P9Sq44M3k47HaHy7OuU=
+github.com/hbstack/pagination v0.7.0/go.mod h1:XaYSS/iReEFQo+fbVAx2YfjP4muWEraVNGeaTcVA35o=
 github.com/hbstack/progress-bar v0.1.0 h1:2ZiGS3RFZbZYBUbT2nFCoU9SJsbD9jtV4A7ab41B4jg=
 github.com/hbstack/progress-bar v0.1.0/go.mod h1:JZt160XK62FxThzt+RmokjOww3De8ZL0ITcxMJLVE7g=
 github.com/hbstack/pwa v0.1.2 h1:zJhLf5Uf+jO9aCBKvFcASlw7sULK2i0qUJZxscBo0HM=
