@@ -53,6 +53,7 @@ github.com/hbstack/blog/modules/sidebar/posts v0.7.0 h1:xy70nHr/Qznc1Xmmn2RJdmxK
 github.com/hbstack/blog/modules/sidebar/posts v0.7.0/go.mod h1:jmdYFY1EtH74KWOS89xnCowNtaEkkhI6G/vHJaT6OJ0=
 github.com/hbstack/blog/modules/sidebar/profile v1.1.5 h1:e546kxltRyQj/A8bp2SBjm8LIQwZN45qK5V+5zU67nM=
 github.com/hbstack/blog/modules/sidebar/profile v1.1.5/go.mod h1:DY8Vqs6jGrRAYP/hnazG0Eao1l+5OUz3CtcUEfFf5u4=
+github.com/hbstack/blog/modules/sidebar/profile v1.2.0/go.mod h1:zvoiNQ7172hApT+Guo5qlaLr+e3mrgwGzGDfY13AorY=
 github.com/hbstack/blog/modules/sidebar/taxonomies v0.4.0 h1:0wdAtJi3gZ3e3HTEJNo7IDieQjZuRF8GDOlMxy2XJ5E=
 github.com/hbstack/blog/modules/sidebar/taxonomies v0.4.0/go.mod h1:4u8cA6erhu3ddE9lUaiAlOSTEsD7PsmM4WKni/zCIjI=
 github.com/hbstack/blog/modules/toc-scrollspy v0.1.20 h1:DnN7Vl7rvsl5pPRpwcMkW9hQgCaO7mASLd778VLQOHI=
@@ -171,6 +172,7 @@ github.com/hbstack/socials v0.10.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJ
 github.com/hbstack/socials v0.11.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
 github.com/hbstack/socials v0.12.0/go.mod h1:VeK9k0+f+HsKuPbVAqRwwz5KqWm+2+NlYlJsMdja4c8=
 github.com/hbstack/socials v0.13.0/go.mod h1:xCbwzO1NzuLhll79QlkG9r/wS0r3Hl5Cy+GhxZBqceo=
+github.com/hbstack/socials v0.14.0/go.mod h1:xCbwzO1NzuLhll79QlkG9r/wS0r3Hl5Cy+GhxZBqceo=
 github.com/hbstack/syntax-highlighting v0.2.0 h1:BP5SR/AbVlJyAFtVdgYjeqVZKmncEmuplTR5R2AUbw8=
 github.com/hbstack/syntax-highlighting v0.2.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 h1:IzJlnkHGS8XhibNjUFvyV3YE7rc7WMsAhdxWZTbORI4=
