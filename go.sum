@@ -65,6 +65,7 @@ github.com/hbstack/blog/modules/toc-scrollspy v0.1.20 h1:DnN7Vl7rvsl5pPRpwcMkW9h
 github.com/hbstack/blog/modules/toc-scrollspy v0.1.20/go.mod h1:Ord7TP0ZP4C+l6a83oEAvPyTOnnGsmrIC26MTJaKYmI=
 github.com/hbstack/bootstrap v0.2.1 h1:q8V9pBQPPfLQQWWHadOMoSomNjvUq0SGZMXdNDnga4U=
 github.com/hbstack/bootstrap v0.2.1/go.mod h1:IvEwsxbTINkAbiwCC9Nqvuguh6V+Z/8Dg3eZ+TLwWHc=
+github.com/hbstack/bootstrap v0.2.2/go.mod h1:2Qd2g72fKgje8fCMSaz8KlKIv60c6PAak59Zg2FJHs0=
 github.com/hbstack/breadcrumb v0.6.0 h1:2IZJQSARImGXlX1sTp5XJQhpVWmp1095CAeM2hnK000=
 github.com/hbstack/breadcrumb v0.6.0/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
 github.com/hbstack/bs-tooltip v0.1.1 h1:3ne4fgVrn90TUPhU5r94AKqY2zD6ZmUFZGVW1wzZEv4=
