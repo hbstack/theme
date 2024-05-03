@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/base v0.5.1 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.30.0 // indirect
+	github.com/hbstack/blog v0.31.0 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.22 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
@@ -18,7 +18,7 @@ require (
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.3.8 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
-	github.com/hbstack/blog/modules/sidebar/posts v0.7.0 // indirect
+	github.com/hbstack/blog/modules/sidebar/posts v0.7.1 // indirect
 	github.com/hbstack/blog/modules/sidebar/profile v1.2.0 // indirect
 	github.com/hbstack/blog/modules/sidebar/taxonomies v0.4.0 // indirect
 	github.com/hbstack/blog/modules/toc-scrollspy v0.1.20 // indirect
