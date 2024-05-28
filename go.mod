@@ -52,7 +52,7 @@ require (
 	github.com/hbstack/mermaid v0.2.2 // indirect
 	github.com/hbstack/meta/recommended v0.2.10 // indirect
 	github.com/hbstack/noscript v0.7.0 // indirect
-	github.com/hbstack/pagination v0.7.0 // indirect
+	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/progress-bar v0.1.0 // indirect
 	github.com/hbstack/pwa v0.1.2 // indirect
 	github.com/hbstack/scrollbar v0.1.0 // indirect
