@@ -191,6 +191,7 @@ github.com/hbstack/search v0.2.1/go.mod h1:w9dTxAjAhIaV7P6zdeFd1XDo4LOpMhfpm6it7
 github.com/hbstack/slide v0.3.1 h1:OdBsUs8w4/flxDlFAV8LelHSuJpckmyhZi8TWbY5zZA=
 github.com/hbstack/slide v0.3.1/go.mod h1:DXC2z0RZvREHl2+gcN6n90xD5c+l+edSkC1q/VUi8yI=
 github.com/hbstack/slide v0.3.2/go.mod h1:5LOWGyawNzSWFlW+3kuUBSrK15kottNvolEc7FVcYVg=
+github.com/hbstack/slide v0.4.0/go.mod h1:5LOWGyawNzSWFlW+3kuUBSrK15kottNvolEc7FVcYVg=
 github.com/hbstack/snackbar v0.1.2 h1:/9R2CdWnLcOBobxzdpe30cgM1gcKJAXtbVbZtp2pgmY=
 github.com/hbstack/snackbar v0.1.2/go.mod h1:4uZSGpI9ZtR9by0bA8yJW2y61sRks2W4a8VvyMluXuo=
 github.com/hbstack/socials v0.9.0 h1:Lru22qqydHTcBJkkYlsk0Dl91IuZPLWBpr+BQB6d87U=
