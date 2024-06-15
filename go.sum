@@ -21,6 +21,7 @@ github.com/hbstack/base v0.5.0/go.mod h1:4A2bxdXMjpj4HSEnugN7hlFECiap4zUX56jOqtu
 github.com/hbstack/base v0.5.1/go.mod h1:4A2bxdXMjpj4HSEnugN7hlFECiap4zUX56jOqtu4YPY=
 github.com/hbstack/base v0.5.2/go.mod h1:4A2bxdXMjpj4HSEnugN7hlFECiap4zUX56jOqtu4YPY=
 github.com/hbstack/base v0.6.0/go.mod h1:4A2bxdXMjpj4HSEnugN7hlFECiap4zUX56jOqtu4YPY=
+github.com/hbstack/base v0.6.1/go.mod h1:rDOIrQy8GKXqam3dvHPQnrvwadQByiGcDY1Q35wBrT4=
 github.com/hbstack/bigger-picture v0.10.1 h1:EgUYZgSGhl4KwKVqryf6ncB2QY4YYgOqTpDW6+5tq14=
 github.com/hbstack/bigger-picture v0.10.1/go.mod h1:wZpRrOlTFrt2lO3tl9Y7cIAJbAJN1MdvRu0UsbCnkaE=
 github.com/hbstack/blog v0.24.3 h1:87PoTQ9oi/mwPeR08FMRquPw0FKm0bFB7b1xWKI8wvg=
@@ -279,6 +280,7 @@ github.com/hugomods/hugopress v0.2.3 h1:tbQlJkGcou1KQJOeCN7E3oK8ZREFZoP3kSHcM/Kz
 github.com/hugomods/hugopress v0.2.3/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/hugopress v0.3.0/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/hugopress v0.4.0/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
+github.com/hugomods/hugopress v0.4.1/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/i18n-js v0.2.1 h1:uIUl4LiYdwo8IK08oq7OmluYLedL21Wc9Rig1taDTSI=
 github.com/hugomods/i18n-js v0.2.1/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
