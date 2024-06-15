@@ -48,6 +48,7 @@ github.com/hbstack/blog v0.34.0/go.mod h1:X27vP5wZXzOSyOO44Ma0TFd187/SU8z/I1FTZh
 github.com/hbstack/blog v0.35.0/go.mod h1:NFSWnd34kl/9062qIgVsJU0Pi4BqLKiLw6BItG3D0VA=
 github.com/hbstack/blog v0.35.1/go.mod h1:/A1EQoCCs9zlcn7dWecP0YMUmH2n1juv3DO4e/mfQ+o=
 github.com/hbstack/blog v0.35.2/go.mod h1:6uWETL+fybTZEKOJ1BEMXG84B+Ucy0GmfFy1t8Itjjg=
+github.com/hbstack/blog v0.35.3/go.mod h1:4yQsuqIiYIyQCLWxgaueK3lRCmAm30pVRdwGEdHE95I=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22 h1:NDcjR5805LBDRcLaDF12VAIAJiRqCL/e/GX+1DE7O0k=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22/go.mod h1:abqj7FTsHihbv3B2szGm4YmVGVZWzWg2VVA5ZhqUyKY=
 github.com/hbstack/blog/modules/breadcrumb v0.1.23/go.mod h1:smQySqXDtUv2pP7bb+XBr+QGNFxhDGN0fLmQkOIWa5g=
@@ -247,6 +248,7 @@ github.com/hugomods/base v0.4.2/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLO
 github.com/hugomods/base v0.5.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/base v0.6.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/base v0.7.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
+github.com/hugomods/base v0.7.1/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/bootstrap v0.17.0 h1:oH+V92q5W/kye9QPSQdZXYsO3V2wyfkAjdYLPFIfjPI=
 github.com/hugomods/bootstrap v0.17.0/go.mod h1:EA5CtuNQX+aNkwEt1xae7clZ+4087KFXWZGE+2/f5oc=
 github.com/hugomods/bootstrap v0.17.1/go.mod h1:njaGUZ2BIU2ypcXqb3JPP/aETSXWG2vlh5qMgcYHk4s=
@@ -363,6 +365,7 @@ github.com/hugomods/seo/modules/base v0.1.0 h1:ZEkWuYeRJeQakBkBThO3N3lmGzOZoPixs
 github.com/hugomods/seo/modules/base v0.1.0/go.mod h1:qfm1Vga0eGxL+Szgz8Jopm+NtJ5PGov2a2dikTg1qSg=
 github.com/hugomods/seo/modules/base v0.1.1/go.mod h1:qfm1Vga0eGxL+Szgz8Jopm+NtJ5PGov2a2dikTg1qSg=
 github.com/hugomods/seo/modules/base v0.1.2/go.mod h1:qfm1Vga0eGxL+Szgz8Jopm+NtJ5PGov2a2dikTg1qSg=
+github.com/hugomods/seo/modules/base v0.1.3/go.mod h1:kKuDlSh6uMjNAfe4j1RFQze4HwTHVKWuLIRsMwENqxs=
 github.com/hugomods/seo/modules/favicons v0.2.1 h1:9FP4DIbdmBhmUpBuJVJYo60iwv9Xc/XNQX1mT8zCNj0=
 github.com/hugomods/seo/modules/favicons v0.2.1/go.mod h1:xFDhrpWUZR4NMMVkilzT6xFBHiF5eyCQ8PlzOS2K9lY=
 github.com/hugomods/seo/modules/open-graph v0.1.0 h1:Whveal1j1n2xZWcAlNAd2rdfKp7Fh5apol36wLGLb54=
