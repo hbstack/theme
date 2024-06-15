@@ -379,6 +379,7 @@ github.com/hugomods/seo/modules/open-graph v0.1.1/go.mod h1:LZ8Pg5t2eri5itVVlndG
 github.com/hugomods/seo/modules/schema v0.1.1 h1:8IuJxCOxk9pfKpCFMik5fDCX7zaFwkGoeKacnYV0sgA=
 github.com/hugomods/seo/modules/schema v0.1.1/go.mod h1:R6hRr2FIJITcMnFA/3V3dPAZgGQLNWGS7v1PLsmVRxU=
 github.com/hugomods/seo/modules/schema v0.1.2/go.mod h1:R6hRr2FIJITcMnFA/3V3dPAZgGQLNWGS7v1PLsmVRxU=
+github.com/hugomods/seo/modules/schema v0.1.3/go.mod h1:BObpqP67u8l/hPm3iy0J5gSO/ZFCG0tYK/vRZ4JoZTw=
 github.com/hugomods/seo/modules/translations v0.1.0 h1:wPDuPKGx/x+otHn2HfAankKCGQxSrC3gLHhRHpNjC18=
 github.com/hugomods/seo/modules/translations v0.1.0/go.mod h1:yU2p2hk2dK86YNRU9zfoWRoCrYmrjEmf3oN7cCTbzcM=
 github.com/hugomods/seo/modules/twitter-cards v0.1.0 h1:jH9WfmFZ3kCndUkATM/D/BYL+TQYoXA7/IxgQJbifKQ=
