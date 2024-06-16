@@ -121,6 +121,7 @@ github.com/hbstack/docs v0.16.0/go.mod h1:YJefwfpWdeXDsgkSDCJUnvPadycxDwgnpWHOMU
 github.com/hbstack/docs v0.17.0/go.mod h1:yk/D2ab4vnD5cNwoHsnpBDruPFYI6jPzc/rg5xnM0q8=
 github.com/hbstack/docs v0.17.1/go.mod h1:8nM1YwlDGfIkb51arJR8Viy35NFkytHfKqKUjdjLb8w=
 github.com/hbstack/docs v0.17.2/go.mod h1:8nM1YwlDGfIkb51arJR8Viy35NFkytHfKqKUjdjLb8w=
+github.com/hbstack/docs v0.17.3/go.mod h1:kB7GEXmLn1lOE/QUhMHf3hMxTE2n4fwrvbU9AegHGvQ=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9 h1:znf/33KfQFZXOXVKezdksy/euM0FDnoNKeKSyw3SwCk=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
 github.com/hbstack/docs/modules/breadcrumb v0.1.10/go.mod h1:pTh43gl04dPERZZVDQ70KVU0j0Z4hmPK7GrxUfLw15s=
