@@ -137,6 +137,7 @@ github.com/hbstack/docs/modules/featured-image v0.2.8 h1:5sYRhNxVa/EYGCsgS5SKiZM
 github.com/hbstack/docs/modules/featured-image v0.2.8/go.mod h1:zg3OOJK2GXuggE0w/Ov2M0FDzyCHs8BRoWiD7Nz5o58=
 github.com/hbstack/docs/modules/giscus v0.1.10 h1:rSZKSrgiZeuf4nizv2A9BJGikm7PSsQy7T6u/6u+/Yw=
 github.com/hbstack/docs/modules/giscus v0.1.10/go.mod h1:6MTfPyydWOJ2hH/9vhQw1r6Z5lvNTgDN7zpAfgjIQz0=
+github.com/hbstack/docs/modules/giscus v0.1.11/go.mod h1:Vycwif1BgqhN5qZp9kg8ZtKOdsr8tXOCzHlrKiHNR8g=
 github.com/hbstack/docs/modules/heading-sign v0.1.9 h1:gwqg3R5YGwqCHFXrnV1ligZ2wFHbOj9chFS6bmqh2f8=
 github.com/hbstack/docs/modules/heading-sign v0.1.9/go.mod h1:64D1dr+tmjfQh0F1PtYa+cs9PiZttR6LCoXaiBXD4bI=
 github.com/hbstack/docs/modules/toc-scrollspy v0.1.7 h1:uBSdzKiDVYjqMxCr7UIC25J+YcC26q64bxmE2tWU0eI=
