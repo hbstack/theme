@@ -385,6 +385,7 @@ github.com/hugomods/seo/modules/translations v0.1.0/go.mod h1:yU2p2hk2dK86YNRU9z
 github.com/hugomods/seo/modules/translations v0.1.1/go.mod h1:ARboWQ31UeIwpB2AiN/efWLfplTTjarZRGEgKkkg3CA=
 github.com/hugomods/seo/modules/twitter-cards v0.1.0 h1:jH9WfmFZ3kCndUkATM/D/BYL+TQYoXA7/IxgQJbifKQ=
 github.com/hugomods/seo/modules/twitter-cards v0.1.0/go.mod h1:QYs7SWbhXSQrsn/RHZSD7DwzaCHFpoLQdVPxEI3j63k=
+github.com/hugomods/seo/modules/twitter-cards v0.1.1/go.mod h1:KA6MA3GbyQZdd3vloDgcTFBoztmqEJI8R59whcSxpf4=
 github.com/hugomods/shortcodes v0.13.2 h1:l/pahltOVCYv8Mz0Mg5bL1BLXWUxnTYYEVsy1XyorbM=
 github.com/hugomods/shortcodes v0.13.2/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
 github.com/hugomods/shortcodes v0.14.0/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
