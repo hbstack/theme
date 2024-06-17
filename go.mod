@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/base v0.6.1 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.35.4 // indirect
+	github.com/hbstack/blog v0.36.1 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.23 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
