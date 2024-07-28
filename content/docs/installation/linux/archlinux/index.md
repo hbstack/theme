@@ -10,7 +10,7 @@ tags:
   - Linux
   - Arch Linux
 images:
-  - https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png?width=600&height=199
+  - https://razonyang.com/images/covers/archlinux_hu8e098f7aa7a8aae6dbe5fc105fe89b3c_11178_bad08652ea24e912f5ea3f07ca705c9a.webp?width=1930&height=640
 featured: true
 authors:
   - razonyang
