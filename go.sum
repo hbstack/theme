@@ -378,6 +378,7 @@ github.com/hugomods/icons/vendors/simple-icons v1.0.52/go.mod h1:JkyLPirnYf5HbI2
 github.com/hugomods/icons/vendors/simple-icons v1.0.53/go.mod h1:uhL0lxvPii4EnmJhJcG0yvzgzoGDxw6+95Ouzez+jvc=
 github.com/hugomods/icons/vendors/simple-icons v1.0.54/go.mod h1:lAfVp+/D/p4trFjOYi4E+xjzOi4Pp0Sn1r32AhGofXc=
 github.com/hugomods/icons/vendors/simple-icons v1.0.55/go.mod h1:DgADd72ssALNAevP4aSMLRFRIdvbPaMA5FKTWfFA+lc=
+github.com/hugomods/icons/vendors/simple-icons v1.0.56/go.mod h1:amg6gmRchBb2zrdPIbLAqXViVtNplSvnYL+MZrZSX6g=
 github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY=
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/images v0.9.0 h1:qPIJisJw5cSN6xsUYpmBeGVQ6tFE8JphJkUhOkumsxI=
