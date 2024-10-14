@@ -165,6 +165,7 @@ github.com/hbstack/featured-image v0.1.2 h1:Bc/deRi++p4rmoM8SWwgVR8sLpaythdceZYq
 github.com/hbstack/featured-image v0.1.2/go.mod h1:zVzCNnwRWcxv9mdrUooPigdIGBFqD1RUPUcGxrKiTVM=
 github.com/hbstack/featured-image v0.2.0/go.mod h1:Y9qKO6T6zHYYHdmic3D4U1U3fbCo+KmX+kawwa9YHxk=
 github.com/hbstack/featured-image v0.2.1/go.mod h1:hux3nYqQUVnQHPttJxVrvwfTsULGuVGRGFk3lO2Si54=
+github.com/hbstack/featured-image v0.2.2/go.mod h1:ZStnhdgLr/uq5yuRM0PpVJ7WTwSjrbnRDK0C/XdyS3E=
 github.com/hbstack/footer v0.2.10 h1:1w8fUXLajGSvEsu7UeWgnrDZumTqnC3pfl4vmmi+feU=
 github.com/hbstack/footer v0.2.10/go.mod h1:z779/sE1prEcABuz4RjhSwA8QkFLkmf+xv/5yM3BtPc=
 github.com/hbstack/footer v0.3.0/go.mod h1:mYITqQNk4PJWxPciS4/r0bRuB3cDDOXZ3dGwIHuYTME=
