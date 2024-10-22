@@ -75,7 +75,7 @@ require (
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.5.0 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
-	github.com/hugomods/icons v0.6.4 // indirect
+	github.com/hugomods/icons v0.6.5 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.7 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.8 // indirect
 	github.com/hugomods/icons/vendors/simple-icons v1.0.56 // indirect
