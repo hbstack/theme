@@ -77,7 +77,7 @@ require (
 	github.com/hugomods/i18n-js v0.2.1 // indirect
 	github.com/hugomods/icons v0.6.6 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.9 // indirect
-	github.com/hugomods/icons/vendors/font-awesome v0.6.9 // indirect
+	github.com/hugomods/icons/vendors/font-awesome v0.6.10 // indirect
 	github.com/hugomods/icons/vendors/simple-icons v1.0.59 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
