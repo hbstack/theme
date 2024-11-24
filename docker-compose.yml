@@ -6,7 +6,11 @@ services:
     command: server -D
     volumes:
       - ./:/src
-      - ~/hugo_cache:/tmp/hugo_cache
+      - ~/.cache/hugo_cache:/tmp/hugo_cache
     ports:
       - 1313:1313
+    env_file:
+      - path: .env
+        required: false
+        
 
