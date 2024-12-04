@@ -81,8 +81,14 @@ seo:
     icon: images/logo.png # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
+# The PWA was disabled on development environment. Set `hugopress.modules.pwa.disable` as `false`
+# on `config/development/params.yaml` to debug and test.
 pwa:
   debug: false
+  icon_path: 'images/logo.png' # default to the logo path, replace it if the icon is different from the logo.
+  icon_sizes:	[48, 64, 128, 144, 256, 512]
+  offline_image: 'images/pwa/offline.png' # the offline image to show if the requested image is not available.
+  # manifest metadata, read more on https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json#list_of_manifest.json_keys.
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
