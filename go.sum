@@ -498,6 +498,7 @@ github.com/hugomods/katex v0.3.2/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGu
 github.com/hugomods/katex v0.3.3 h1:TX6Tl5jgYXAXcNWKTC/0vI8p9MSBfwkVMTgJfakM3XA=
 github.com/hugomods/katex v0.3.3/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
 github.com/hugomods/katex v0.3.4/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
+github.com/hugomods/katex v0.3.5/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
 github.com/hugomods/masonry-js v0.1.0 h1:mZagvVEWsgyIFViMY1ZkOOJfdFV5D76eB99SHgwhbRU=
 github.com/hugomods/masonry-js v0.1.0/go.mod h1:+RHcqWxaZ9R4Z0GeAji1WiQ006/VxR5RLhOLpfVypio=
 github.com/hugomods/mermaid v0.1.1 h1:12b8DbdiKOTtPmkWOMXsBz3LKkAWVqa5tGkbEboj0a4=

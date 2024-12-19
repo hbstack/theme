@@ -81,7 +81,7 @@ require (
 	github.com/hugomods/icons/vendors/simple-icons v1.0.61 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
-	github.com/hugomods/katex v0.3.4 // indirect
+	github.com/hugomods/katex v0.3.5 // indirect
 	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
