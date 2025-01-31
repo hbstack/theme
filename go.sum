@@ -642,6 +642,7 @@ github.com/hugomods/workbox v0.1.0/go.mod h1:RpFcIcltqYsiHWJV6PHPOdMagFZxO7nrO5X
 github.com/jakearchibald/idb v8.0.0+incompatible h1:sTNGHgh+JoyQ4Eqey+1ScX4F03uTsYGhs2MbVSJNfF4=
 github.com/jakearchibald/idb v8.0.0+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
 github.com/jakearchibald/idb v8.0.1+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
+github.com/jakearchibald/idb v8.0.2+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
 github.com/krisk/Fuse v7.0.0+incompatible h1:jVyg6No+Joc51Rn97QQYJZIpCxzd4ywACn/4+FKWjvo=
 github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/twbs/bootstrap v5.3.2+incompatible h1:tuiO5acc6xnZUR77Sbi5aKWXxjYxbmsSbJwYrhAKoQQ=
