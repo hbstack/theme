@@ -98,7 +98,7 @@ require (
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v8.0.2+incompatible // indirect
-	github.com/krisk/Fuse v7.0.0+incompatible // indirect
+	github.com/krisk/Fuse v7.1.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
