@@ -21,6 +21,7 @@ github.com/desandro/masonry v4.2.2+incompatible h1:4LI69kwq5DJSF9jhHVGfCw+q2Nt3I
 github.com/desandro/masonry v4.2.2+incompatible/go.mod h1:4P4Or5YZcNuAtGW3JOYLTrmi+ZyqhCPj7xTgradMEVU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400/go.mod h1:uekq1D4ebeXgduLj8VIZy8TgfTjrLdSl6nPtVczso78=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hbstack/back-to-top v0.2.0 h1:oVGYYL34PL4OX2O725YmRL9kHjZuxBuyT33/ZG1Zze0=
