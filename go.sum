@@ -669,3 +669,4 @@ github.com/twbs/bootstrap v5.3.4+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspT
 github.com/twbs/bootstrap v5.3.5+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
 github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
+github.com/twbs/icons v1.11.4/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
