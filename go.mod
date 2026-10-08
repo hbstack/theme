@@ -100,5 +100,5 @@ require (
 	github.com/jakearchibald/idb v8.0.4+incompatible // indirect
 	github.com/krisk/Fuse v7.5.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
-	github.com/twbs/icons v1.13.1 // indirect
+	github.com/twbs/icons v1.13.2 // indirect
 )
